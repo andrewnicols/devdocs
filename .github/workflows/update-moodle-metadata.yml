@@ -34,7 +34,7 @@ jobs:
       - name: Checkout Moodle
         uses: actions/checkout@v3
         with:
-          repository: https://github.com/moodle/moodle.git
+          repository: moodle/moodle.git
           path: .moodle
 
       - name: Ignore Moodle
