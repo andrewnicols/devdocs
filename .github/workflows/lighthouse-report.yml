@@ -22,7 +22,7 @@ jobs:
         uses: andrewnicols/wait-for-netlify-preview
         id: netlify
         with:
-          site_id: 3c056055-e1bd-4cfd-8a02-ed35ab7aedfa: moodledevdocs
+          site_id: "3c056055-e1bd-4cfd-8a02-ed35ab7aedfa"
           max_timeout: 600
           netlify_secret: ${{ secrets.NETLIFY_SECRET }}
       - name: Audit URLs using Lighthouse
