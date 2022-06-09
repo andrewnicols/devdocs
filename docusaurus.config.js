@@ -18,6 +18,8 @@
 /* eslint-disable global-require */
 require('dotenv').config();
 
+const FontPreloadPlugin = require('webpack-font-preload-plugin');
+
 const Versions = require('./versions.json');
 
 const versionConfig = Object.fromEntries(Versions.map((version) => [version, {
@@ -119,6 +121,18 @@ const config = {
     }),
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     plugins: [
+        // Preload fonts to prevent a flash as the page renders and fonts load separately.
+        function preloadFontPlugin() {
+            return {
+                name: 'preload-font-plugin',
+                configureWebpack() {
+                    return {
+                        plugins: [new FontPreloadPlugin()],
+                    };
+                },
+            };
+        },
+
         [require.resolve('@cmfcmf/docusaurus-search-local'), {
             indexBlog: false,
         }],
