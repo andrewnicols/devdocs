@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Copyright (c) Moodle Pty Ltd.
  *
@@ -15,21 +16,23 @@
  * along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-module.exports = () => (root) => {
-    root.children.unshift({
-        type: 'import',
-        value: 'import MoodlePageBanner from "@site/src/theme/MoodlePageBanner";',
-    }, {
-        type: 'import',
-        value: 'import MigratedPageBanner from "@site/src/theme/MigratedPageBanner";',
-    }, {
-        type: 'jsx',
-        // eslint-disable-next-line max-len
-        value: '<MoodlePageBanner frontMatter={frontMatter} {...(typeof metadata !== "undefined" ? {metadata} : {} )}/>',
-    });
+const path = require('path');
+const fs = require('fs');
+const { readFile, writeFile } = require('fs/promises');
+/* eslint-disable-next-line import/no-extraneous-dependencies */
+const yaml = require('js-yaml');
 
-    root.children.push({
-        type: 'jsx',
-        value: '<MigratedPageBanner {...(typeof metadata !== "undefined" ? {metadata} : {} )}/>',
-    });
-};
+(async () => {
+    const filePath = path.join(path.dirname(__dirname), 'data');
+
+    const migratedPages = yaml.load(await readFile(path.join(
+        filePath,
+        'migratedPages.yml',
+    ), 'utf8'));
+
+    const migratedPagesJson = JSON.stringify(migratedPages, null, '  ');
+    writeFile(path.join(
+        filePath,
+        'migratedPages.json',
+    ), migratedPagesJson);
+})();

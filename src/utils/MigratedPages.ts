@@ -15,21 +15,18 @@
  * along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-module.exports = () => (root) => {
-    root.children.unshift({
-        type: 'import',
-        value: 'import MoodlePageBanner from "@site/src/theme/MoodlePageBanner";',
-    }, {
-        type: 'import',
-        value: 'import MigratedPageBanner from "@site/src/theme/MigratedPageBanner";',
-    }, {
-        type: 'jsx',
-        // eslint-disable-next-line max-len
-        value: '<MoodlePageBanner frontMatter={frontMatter} {...(typeof metadata !== "undefined" ? {metadata} : {} )}/>',
+import MigratedDocs from '@site/data/migratedPages.json';
+
+export const getSourcesForDocument = (newPagePath: string): string[] => {
+    const pages = [];
+    Object.entries(MigratedDocs).every(([migratedPage, files]) => {
+        const matches = files.some(({ filePath }) => filePath === newPagePath);
+        if (matches) {
+            pages.push(migratedPage);
+        }
+
+        return true;
     });
 
-    root.children.push({
-        type: 'jsx',
-        value: '<MigratedPageBanner {...(typeof metadata !== "undefined" ? {metadata} : {} )}/>',
-    });
+    return pages;
 };

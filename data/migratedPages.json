@@ -1,0 +1,3252 @@
+{
+  "AMOS_manual": [
+    {
+      "filePath": "/general/development/process/translation/amos.md",
+      "slug": "/general/development/process/translation/amos"
+    }
+  ],
+  "Acceptance_testing/Browsers": [
+    {
+      "filePath": "/general/development/tools/behat/browsers/index.md",
+      "slug": "/general/development/tools/behat/browsers/"
+    }
+  ],
+  "Acceptance_testing/Browsers/Working_combinations_of_OS+Browser+selenium": [
+    {
+      "filePath": "/general/development/tools/behat/browsers/supportedbrowsers.md",
+      "slug": "/general/development/tools/behat/browsers/supportedbrowsers"
+    }
+  ],
+  "Acceptance_testing_for_the_Moodle_App": [
+    {
+      "filePath": "/docs/moodleapp/development/testing/acceptance-testing.md",
+      "slug": "/docs/moodleapp/development/testing/acceptance-testing"
+    }
+  ],
+  "Access_API": [
+    {
+      "filePath": "/docs/apis/subsystems/access.md",
+      "slug": "/docs/apis/subsystems/access"
+    }
+  ],
+  "Accessibility": [
+    {
+      "filePath": "/general/development/policies/accessibility.md",
+      "slug": "/general/development/policies/accessibility"
+    }
+  ],
+  "Activity_modules": [
+    {
+      "filePath": "/docs/apis/plugintypes/mod/index.mdx",
+      "slug": "/docs/apis/plugintypes/mod"
+    }
+  ],
+  "Add_a_block_cleanup": [
+    {
+      "filePath": "/general/projects/code/block-cleanup.md",
+      "slug": "/general/projects/code/block-cleanup"
+    }
+  ],
+  "Analytics_API": [
+    {
+      "filePath": "/docs/apis/subsystems/analytics/index.md",
+      "slug": "/docs/apis/subsystems/analytics/"
+    }
+  ],
+  "Antivirus_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/antivirus/index.mdx",
+      "slug": "/docs/apis/plugintypes/antivirus"
+    }
+  ],
+  "Assign_feedback_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/assign/feedback.md",
+      "slug": "/docs/apis/plugintypes/assign/feedback"
+    }
+  ],
+  "Assign_submission_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/assign/submission.md",
+      "slug": "/docs/apis/plugintypes/assign/submission"
+    }
+  ],
+  "Automated_Manipulation_of_Strings_2.0": [
+    {
+      "filePath": "/general/projects/api/amos.md",
+      "slug": "/general/projects/api/amos"
+    }
+  ],
+  "Automated_code_review": [
+    {
+      "filePath": "/general/development/tools/cibot.md",
+      "slug": "/general/development/tools/cibot"
+    }
+  ],
+  "Behat_integration": [
+    {
+      "filePath": "/general/development/tools/behat/index.md",
+      "slug": "/general/development/tools/behat/"
+    }
+  ],
+  "Blocks": [
+    {
+      "filePath": "/docs/apis/plugintypes/blocks/index.md",
+      "slug": "/docs/apis/plugintypes/blocks"
+    }
+  ],
+  "Bug_triage": [
+    {
+      "filePath": "/general/development/process/triage.md",
+      "slug": "/general/development/process/triage"
+    }
+  ],
+  "Check_API": [
+    {
+      "filePath": "/docs/apis/subsystems/check/index.md",
+      "slug": "/docs/apis/subsystems/check/"
+    }
+  ],
+  "CodeSniffer": [
+    {
+      "filePath": "/general/development/tools/phpcs.md",
+      "slug": "/general/development/tools/phpcs"
+    }
+  ],
+  "Coding": [
+    {
+      "filePath": "/general/development/policies.md",
+      "slug": "/general/development/policies"
+    }
+  ],
+  "Coding_style": [
+    {
+      "filePath": "/general/development/policies/codingstyle/index.md",
+      "slug": "/general/development/policies/codingstyle"
+    }
+  ],
+  "Communication_Between_Components": [
+    {
+      "filePath": "/general/development/policies/component-communication/index.md",
+      "slug": "/general/development/policies/component-communication"
+    }
+  ],
+  "Community_credits": [
+    {
+      "filePath": "/general/community/credits/moodleorg.md",
+      "slug": "/general/community/credits/moodleorg"
+    }
+  ],
+  "Component_Lead_Review": [
+    {
+      "filePath": "/general/development/process/integration/clr.md",
+      "slug": "/general/development/process/integration/clr"
+    }
+  ],
+  "Contributing_a_translation": [
+    {
+      "filePath": "/general/development/process/translation/contributing.md",
+      "slug": "/general/development/process/translation/contributing"
+    }
+  ],
+  "Core_APIs": [
+    {
+      "filePath": "/docs/apis.md",
+      "slug": "/docs/apis"
+    }
+  ],
+  "Course_Custom_fields": [
+    {
+      "filePath": "/docs/apis/plugintypes/customfield/index.md",
+      "slug": "/docs/apis/plugintypes/customfield/"
+    }
+  ],
+  "Course_formats": [
+    {
+      "filePath": "/docs/apis/plugintypes/format/index.md",
+      "slug": "/docs/apis/plugintypes/format"
+    }
+  ],
+  "Creating_mobile_course_formats": [
+    {
+      "filePath": "/docs/moodleapp/development/plugins-development-guide/examples/create-course-formats.md",
+      "slug": "/docs/moodleapp/development/plugins-development-guide/examples/create-course-formats"
+    }
+  ],
+  "Credits": [
+    {
+      "filePath": "/general/community/credits/index.md",
+      "slug": "/general/community/credits"
+    }
+  ],
+  "Custom_Moodle_Apps": [
+    {
+      "filePath": "/docs/moodleapp/customisation/custom-apps.md",
+      "slug": "/docs/moodleapp/customisation/custom-apps"
+    }
+  ],
+  "DDL_functions": [
+    {
+      "filePath": "/docs/apis/core/dml/ddl.md",
+      "slug": "/docs/apis/core/dml/ddl"
+    }
+  ],
+  "DML_drivers": [
+    {
+      "filePath": "/docs/apis/core/dml/drivers.md",
+      "slug": "/docs/apis/core/dml/drivers"
+    }
+  ],
+  "DML_exceptions": [
+    {
+      "filePath": "/docs/apis/core/dml/exceptions.md",
+      "slug": "/docs/apis/core/dml/exceptions"
+    }
+  ],
+  "DML_functions": [
+    {
+      "filePath": "/docs/apis/core/dml/ddl.md",
+      "slug": "/docs/apis/core/dml/ddl"
+    }
+  ],
+  "Data_definition_API": [
+    {
+      "filePath": "/docs/apis/core/dml/ddl.md",
+      "slug": "/docs/apis/core/dml/ddl"
+    }
+  ],
+  "Data_manipulation_API": [
+    {
+      "filePath": "/docs/apis/core/dml/index.md",
+      "slug": "/docs/apis/core/dml"
+    }
+  ],
+  "Database_fields": [
+    {
+      "filePath": "/docs/apis/plugintypes/mod_data/fields.md",
+      "slug": "/docs/apis/plugintypes/mod_data/fields"
+    }
+  ],
+  "Database_presets": [
+    {
+      "filePath": "/docs/apis/plugintypes/mod_data/presets.md",
+      "slug": "/docs/apis/plugintypes/mod_data/presets"
+    }
+  ],
+  "Debugging_network_requests_in_the_Moodle_App": [
+    {
+      "filePath": "/docs/moodleapp/development/network-debug.md",
+      "slug": "/docs/moodleapp/development/network-debug"
+    }
+  ],
+  "Deprecation": [
+    {
+      "filePath": "/general/development/policies/deprecation.md",
+      "slug": "/general/development/policies/deprecation"
+    }
+  ],
+  "Designing_usable_forms": [
+    {
+      "filePath": "/general/development/policies/designing-usable-forms.md",
+      "slug": "/general/development/policies/designing-usable-forms"
+    }
+  ],
+  "Developer_meeting_April_2022": [
+    {
+      "filePath": "/general/community/meetings/202204.md",
+      "slug": "/general/community/meetings/202204"
+    }
+  ],
+  "Developer_meeting_February_2022": [
+    {
+      "filePath": "/general/community/meetings/202202.md",
+      "slug": "/general/community/meetings/202202"
+    }
+  ],
+  "Developer_meetings": [
+    {
+      "filePath": "/general/community/meetings/index.md",
+      "slug": "/general/community/meetings"
+    }
+  ],
+  "Docs_required_issues_process": [
+    {
+      "filePath": "/general/development/process/release/docsrequiredissues.md",
+      "slug": "/general/development/process/release/docsrequiredissues"
+    }
+  ],
+  "Documentation_credits": [
+    {
+      "filePath": "/general/community/credits/documentation.md",
+      "slug": "/general/community/credits/documentation"
+    }
+  ],
+  "Editor_API": [
+    {
+      "filePath": "/docs/apis/subsystems/editor/index.md",
+      "slug": "/docs/apis/subsystems/editor/"
+    }
+  ],
+  "Enrolment_API": [
+    {
+      "filePath": "/docs/apis/subsystems/enrol.md",
+      "slug": "/docs/apis/subsystems/enrol"
+    }
+  ],
+  "Enrolment_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/enrol/index.md",
+      "slug": "/docs/apis/plugintypes/enrol/"
+    }
+  ],
+  "Favourites_API": [
+    {
+      "filePath": "/docs/apis/subsystems/favourites/index.md",
+      "slug": "/docs/apis/subsystems/favourites/"
+    }
+  ],
+  "File_API": [
+    {
+      "filePath": "/docs/apis/subsystems/files/index.md",
+      "slug": "/docs/apis/subsystems/files"
+    }
+  ],
+  "File_API_internals": [
+    {
+      "filePath": "/docs/apis/subsystems/files/internals.md",
+      "slug": "/docs/apis/subsystems/files/internals"
+    }
+  ],
+  "File_Converters": [
+    {
+      "filePath": "/docs/apis/plugintypes/fileconverter/index.md",
+      "slug": "/docs/apis/plugintypes/fileconverter/"
+    },
+    {
+      "filePath": "/docs/apis/subsystems/files/converter.md",
+      "slug": "/docs/apis/subsystems/file/converter/"
+    }
+  ],
+  "Filters": [
+    {
+      "filePath": "/docs/apis/plugintypes/filter/index.md",
+      "slug": "/docs/apis/plugintypes/filter/"
+    }
+  ],
+  "Form_API": [
+    {
+      "filePath": "/docs/apis/subsystems/form/index.md",
+      "slug": "/docs/apis/subsystems/form/"
+    }
+  ],
+  "Github_actions_integration": [
+    {
+      "filePath": "/general/development/tools/gha.md",
+      "slug": "/general/development/tools/gha"
+    }
+  ],
+  "Groups": [
+    {
+      "filePath": "/docs/apis/subsystems/group/index.md",
+      "slug": "/docs/apis/subsystems/group/"
+    }
+  ],
+  "Groups_API": [
+    {
+      "filePath": "/docs/apis/subsystems/group/index.md",
+      "slug": "/docs/apis/subsystems/group/"
+    }
+  ],
+  "Hardening_new_Roles_system": [
+    {
+      "filePath": "/docs/apis/subsystems/roles.md",
+      "slug": "/docs/apis/subsystems/roles"
+    }
+  ],
+  "Integration_Review": [
+    {
+      "filePath": "/general/development/process/integration/index.md",
+      "slug": "/general/development/process/integration"
+    }
+  ],
+  "List_of_locales_supported_on_Moodle_community_servers": [
+    {
+      "filePath": "/general/development/process/translation/locales.md",
+      "slug": "/general/development/process/translation/locales"
+    }
+  ],
+  "Local_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/local/index.mdx",
+      "slug": "/docs/apis/plugintypes/local"
+    }
+  ],
+  "Lock_API": [
+    {
+      "filePath": "/docs/apis/core/lock/index.md",
+      "slug": "/docs/apis/core/lock/"
+    }
+  ],
+  "Machine_learning_backends": [
+    {
+      "filePath": "/docs/apis/plugintypes/mlbackend/index.md",
+      "slug": "/docs/apis/plugintypes/mlbackend/"
+    }
+  ],
+  "Maintaining_a_language_pack": [
+    {
+      "filePath": "/general/development/process/translation/maintaining.md",
+      "slug": "/general/development/process/translation/maintaining"
+    }
+  ],
+  "Mission": [
+    {
+      "filePath": "/general/community/mission.md",
+      "slug": "/general/community/mission"
+    }
+  ],
+  "Moodle_1.4.5_release_notes": [
+    {
+      "filePath": "/general/releases/1.4/1.4.5.md",
+      "slug": "/general/releases/1.4/1.4.5"
+    }
+  ],
+  "Moodle_1.5.1_release_notes": [
+    {
+      "filePath": "/general/releases/1.5/1.5.1.md",
+      "slug": "/general/releases/1.5/1.5.1"
+    }
+  ],
+  "Moodle_1.5.2_release_notes": [
+    {
+      "filePath": "/general/releases/1.5/1.5.2.md",
+      "slug": "/general/releases/1.5/1.5.2"
+    }
+  ],
+  "Moodle_1.5.3_release_notes": [
+    {
+      "filePath": "/general/releases/1.5/1.5.3.md",
+      "slug": "/general/releases/1.5/1.5.3"
+    }
+  ],
+  "Moodle_1.5.4_release_notes": [
+    {
+      "filePath": "/general/releases/1.5/1.5.4.md",
+      "slug": "/general/releases/1.5/1.5.4"
+    }
+  ],
+  "Moodle_1.5_release_notes": [
+    {
+      "filePath": "/general/releases/1.5.md",
+      "slug": "/general/releases/1.5"
+    }
+  ],
+  "Moodle_1.6.1_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.1.md",
+      "slug": "/general/releases/1.6/1.6.1"
+    }
+  ],
+  "Moodle_1.6.2_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.2.md",
+      "slug": "/general/releases/1.6/1.6.2"
+    }
+  ],
+  "Moodle_1.6.3_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.3.md",
+      "slug": "/general/releases/1.6/1.6.3"
+    }
+  ],
+  "Moodle_1.6.4_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.4.md",
+      "slug": "/general/releases/1.6/1.6.4"
+    }
+  ],
+  "Moodle_1.6.5_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.5.md",
+      "slug": "/general/releases/1.6/1.6.5"
+    }
+  ],
+  "Moodle_1.6.8_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.8.md",
+      "slug": "/general/releases/1.6/1.6.8"
+    }
+  ],
+  "Moodle_1.6.9_release_notes": [
+    {
+      "filePath": "/general/releases/1.6/1.6.9.md",
+      "slug": "/general/releases/1.6/1.6.9"
+    }
+  ],
+  "Moodle_1.6_release_notes": [
+    {
+      "filePath": "/general/releases/1.6.md",
+      "slug": "/general/releases/1.6"
+    }
+  ],
+  "Moodle_1.7.1_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.1.md",
+      "slug": "/general/releases/1.7/1.7.1"
+    }
+  ],
+  "Moodle_1.7.2_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.2.md",
+      "slug": "/general/releases/1.7/1.7.2"
+    }
+  ],
+  "Moodle_1.7.3_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.3.md",
+      "slug": "/general/releases/1.7/1.7.3"
+    }
+  ],
+  "Moodle_1.7.4_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.4.md",
+      "slug": "/general/releases/1.7/1.7.4"
+    }
+  ],
+  "Moodle_1.7.5_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.5.md",
+      "slug": "/general/releases/1.7/1.7.5"
+    }
+  ],
+  "Moodle_1.7.6_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.6.md",
+      "slug": "/general/releases/1.7/1.7.6"
+    }
+  ],
+  "Moodle_1.7.7_release_notes": [
+    {
+      "filePath": "/general/releases/1.7/1.7.7.md",
+      "slug": "/general/releases/1.7/1.7.7"
+    }
+  ],
+  "Moodle_1.7_release_notes": [
+    {
+      "filePath": "/general/releases/1.7.md",
+      "slug": "/general/releases/1.7"
+    }
+  ],
+  "Moodle_1.8.10_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.10.md",
+      "slug": "/general/releases/1.8/1.8.10"
+    }
+  ],
+  "Moodle_1.8.11_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.11.md",
+      "slug": "/general/releases/1.8/1.8.11"
+    }
+  ],
+  "Moodle_1.8.12_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.12.md",
+      "slug": "/general/releases/1.8/1.8.12"
+    }
+  ],
+  "Moodle_1.8.13_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.13.md",
+      "slug": "/general/releases/1.8/1.8.13"
+    }
+  ],
+  "Moodle_1.8.14_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.14.md",
+      "slug": "/general/releases/1.8/1.8.14"
+    }
+  ],
+  "Moodle_1.8.1_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.1.md",
+      "slug": "/general/releases/1.8/1.8.1"
+    }
+  ],
+  "Moodle_1.8.2_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.2.md",
+      "slug": "/general/releases/1.8/1.8.2"
+    }
+  ],
+  "Moodle_1.8.3_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.3.md",
+      "slug": "/general/releases/1.8/1.8.3"
+    }
+  ],
+  "Moodle_1.8.4_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.4.md",
+      "slug": "/general/releases/1.8/1.8.4"
+    }
+  ],
+  "Moodle_1.8.5_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.5.md",
+      "slug": "/general/releases/1.8/1.8.5"
+    }
+  ],
+  "Moodle_1.8.6_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.6.md",
+      "slug": "/general/releases/1.8/1.8.6"
+    }
+  ],
+  "Moodle_1.8.7_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.7.md",
+      "slug": "/general/releases/1.8/1.8.7"
+    }
+  ],
+  "Moodle_1.8.8_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.8.md",
+      "slug": "/general/releases/1.8/1.8.8"
+    }
+  ],
+  "Moodle_1.8.9_release_notes": [
+    {
+      "filePath": "/general/releases/1.8/1.8.9.md",
+      "slug": "/general/releases/1.8/1.8.9"
+    }
+  ],
+  "Moodle_1.8_release_notes": [
+    {
+      "filePath": "/general/releases/1.8.md",
+      "slug": "/general/releases/1.8"
+    }
+  ],
+  "Moodle_1.9.10_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.10.md",
+      "slug": "/general/releases/1.9/1.9.10"
+    }
+  ],
+  "Moodle_1.9.11_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.11.md",
+      "slug": "/general/releases/1.9/1.9.11"
+    }
+  ],
+  "Moodle_1.9.12_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.12.md",
+      "slug": "/general/releases/1.9/1.9.12"
+    }
+  ],
+  "Moodle_1.9.13_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.13.md",
+      "slug": "/general/releases/1.9/1.9.13"
+    }
+  ],
+  "Moodle_1.9.14_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.14.md",
+      "slug": "/general/releases/1.9/1.9.14"
+    }
+  ],
+  "Moodle_1.9.15_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.15.md",
+      "slug": "/general/releases/1.9/1.9.15"
+    }
+  ],
+  "Moodle_1.9.16_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.16.md",
+      "slug": "/general/releases/1.9/1.9.16"
+    }
+  ],
+  "Moodle_1.9.17_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.17.md",
+      "slug": "/general/releases/1.9/1.9.17"
+    }
+  ],
+  "Moodle_1.9.18_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.18.md",
+      "slug": "/general/releases/1.9/1.9.18"
+    }
+  ],
+  "Moodle_1.9.19_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.19.md",
+      "slug": "/general/releases/1.9/1.9.19"
+    }
+  ],
+  "Moodle_1.9.1_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.1.md",
+      "slug": "/general/releases/1.9/1.9.1"
+    }
+  ],
+  "Moodle_1.9.2_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.2.md",
+      "slug": "/general/releases/1.9/1.9.2"
+    }
+  ],
+  "Moodle_1.9.3_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.3.md",
+      "slug": "/general/releases/1.9/1.9.3"
+    }
+  ],
+  "Moodle_1.9.4_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.4.md",
+      "slug": "/general/releases/1.9/1.9.4"
+    }
+  ],
+  "Moodle_1.9.5_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.5.md",
+      "slug": "/general/releases/1.9/1.9.5"
+    }
+  ],
+  "Moodle_1.9.6_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.6.md",
+      "slug": "/general/releases/1.9/1.9.6"
+    }
+  ],
+  "Moodle_1.9.7_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.7.md",
+      "slug": "/general/releases/1.9/1.9.7"
+    }
+  ],
+  "Moodle_1.9.8_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.8.md",
+      "slug": "/general/releases/1.9/1.9.8"
+    }
+  ],
+  "Moodle_1.9.9_release_notes": [
+    {
+      "filePath": "/general/releases/1.9/1.9.9.md",
+      "slug": "/general/releases/1.9/1.9.9"
+    }
+  ],
+  "Moodle_1.9_release_notes": [
+    {
+      "filePath": "/general/releases/1.9.md",
+      "slug": "/general/releases/1.9"
+    }
+  ],
+  "Moodle_2.0.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.10.md",
+      "slug": "/general/releases/2.0/2.0.10"
+    }
+  ],
+  "Moodle_2.0.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.1.md",
+      "slug": "/general/releases/2.0/2.0.1"
+    }
+  ],
+  "Moodle_2.0.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.2.md",
+      "slug": "/general/releases/2.0/2.0.2"
+    }
+  ],
+  "Moodle_2.0.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.3.md",
+      "slug": "/general/releases/2.0/2.0.3"
+    }
+  ],
+  "Moodle_2.0.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.4.md",
+      "slug": "/general/releases/2.0/2.0.4"
+    }
+  ],
+  "Moodle_2.0.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.5.md",
+      "slug": "/general/releases/2.0/2.0.5"
+    }
+  ],
+  "Moodle_2.0.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.6.md",
+      "slug": "/general/releases/2.0/2.0.6"
+    }
+  ],
+  "Moodle_2.0.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.7.md",
+      "slug": "/general/releases/2.0/2.0.7"
+    }
+  ],
+  "Moodle_2.0.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.8.md",
+      "slug": "/general/releases/2.0/2.0.8"
+    }
+  ],
+  "Moodle_2.0.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.0/2.0.9.md",
+      "slug": "/general/releases/2.0/2.0.9"
+    }
+  ],
+  "Moodle_2.0_release_notes": [
+    {
+      "filePath": "/general/releases/2.0.md",
+      "slug": "/general/releases/2.0"
+    }
+  ],
+  "Moodle_2.1.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.10.md",
+      "slug": "/general/releases/2.1/2.1.10"
+    }
+  ],
+  "Moodle_2.1.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.1.md",
+      "slug": "/general/releases/2.1/2.1.1"
+    }
+  ],
+  "Moodle_2.1.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.2.md",
+      "slug": "/general/releases/2.1/2.1.2"
+    }
+  ],
+  "Moodle_2.1.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.3.md",
+      "slug": "/general/releases/2.1/2.1.3"
+    }
+  ],
+  "Moodle_2.1.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.4.md",
+      "slug": "/general/releases/2.1/2.1.4"
+    }
+  ],
+  "Moodle_2.1.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.5.md",
+      "slug": "/general/releases/2.1/2.1.5"
+    }
+  ],
+  "Moodle_2.1.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.6.md",
+      "slug": "/general/releases/2.1/2.1.6"
+    }
+  ],
+  "Moodle_2.1.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.7.md",
+      "slug": "/general/releases/2.1/2.1.7"
+    }
+  ],
+  "Moodle_2.1.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.8.md",
+      "slug": "/general/releases/2.1/2.1.8"
+    }
+  ],
+  "Moodle_2.1.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.1/2.1.9.md",
+      "slug": "/general/releases/2.1/2.1.9"
+    }
+  ],
+  "Moodle_2.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.1.md",
+      "slug": "/general/releases/2.1"
+    }
+  ],
+  "Moodle_2.2.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.10.md",
+      "slug": "/general/releases/2.2/2.2.10"
+    }
+  ],
+  "Moodle_2.2.11_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.11.md",
+      "slug": "/general/releases/2.2/2.2.11"
+    }
+  ],
+  "Moodle_2.2.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.1.md",
+      "slug": "/general/releases/2.2/2.2.1"
+    }
+  ],
+  "Moodle_2.2.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.2.md",
+      "slug": "/general/releases/2.2/2.2.2"
+    }
+  ],
+  "Moodle_2.2.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.3.md",
+      "slug": "/general/releases/2.2/2.2.3"
+    }
+  ],
+  "Moodle_2.2.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.4.md",
+      "slug": "/general/releases/2.2/2.2.4"
+    }
+  ],
+  "Moodle_2.2.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.5.md",
+      "slug": "/general/releases/2.2/2.2.5"
+    }
+  ],
+  "Moodle_2.2.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.6.md",
+      "slug": "/general/releases/2.2/2.2.6"
+    }
+  ],
+  "Moodle_2.2.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.7.md",
+      "slug": "/general/releases/2.2/2.2.7"
+    }
+  ],
+  "Moodle_2.2.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.8.md",
+      "slug": "/general/releases/2.2/2.2.8"
+    }
+  ],
+  "Moodle_2.2.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.2/2.2.9.md",
+      "slug": "/general/releases/2.2/2.2.9"
+    }
+  ],
+  "Moodle_2.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.2.md",
+      "slug": "/general/releases/2.2"
+    }
+  ],
+  "Moodle_2.3.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.10.md",
+      "slug": "/general/releases/2.3/2.3.10"
+    }
+  ],
+  "Moodle_2.3.11_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.11.md",
+      "slug": "/general/releases/2.3/2.3.11"
+    }
+  ],
+  "Moodle_2.3.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.1.md",
+      "slug": "/general/releases/2.3/2.3.1"
+    }
+  ],
+  "Moodle_2.3.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.2.md",
+      "slug": "/general/releases/2.3/2.3.2"
+    }
+  ],
+  "Moodle_2.3.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.3.md",
+      "slug": "/general/releases/2.3/2.3.3"
+    }
+  ],
+  "Moodle_2.3.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.4.md",
+      "slug": "/general/releases/2.3/2.3.4"
+    }
+  ],
+  "Moodle_2.3.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.5.md",
+      "slug": "/general/releases/2.3/2.3.5"
+    }
+  ],
+  "Moodle_2.3.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.6.md",
+      "slug": "/general/releases/2.3/2.3.6"
+    }
+  ],
+  "Moodle_2.3.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.7.md",
+      "slug": "/general/releases/2.3/2.3.7"
+    }
+  ],
+  "Moodle_2.3.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.8.md",
+      "slug": "/general/releases/2.3/2.3.8"
+    }
+  ],
+  "Moodle_2.3.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.3/2.3.9.md",
+      "slug": "/general/releases/2.3/2.3.9"
+    }
+  ],
+  "Moodle_2.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.3.md",
+      "slug": "/general/releases/2.3"
+    }
+  ],
+  "Moodle_2.4.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.10.md",
+      "slug": "/general/releases/2.4/2.4.10"
+    }
+  ],
+  "Moodle_2.4.11_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.11.md",
+      "slug": "/general/releases/2.4/2.4.11"
+    }
+  ],
+  "Moodle_2.4.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.1.md",
+      "slug": "/general/releases/2.4/2.4.1"
+    }
+  ],
+  "Moodle_2.4.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.2.md",
+      "slug": "/general/releases/2.4/2.4.2"
+    }
+  ],
+  "Moodle_2.4.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.3.md",
+      "slug": "/general/releases/2.4/2.4.3"
+    }
+  ],
+  "Moodle_2.4.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.4.md",
+      "slug": "/general/releases/2.4/2.4.4"
+    }
+  ],
+  "Moodle_2.4.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.5.md",
+      "slug": "/general/releases/2.4/2.4.5"
+    }
+  ],
+  "Moodle_2.4.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.6.md",
+      "slug": "/general/releases/2.4/2.4.6"
+    }
+  ],
+  "Moodle_2.4.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.7.md",
+      "slug": "/general/releases/2.4/2.4.7"
+    }
+  ],
+  "Moodle_2.4.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.8.md",
+      "slug": "/general/releases/2.4/2.4.8"
+    }
+  ],
+  "Moodle_2.4.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.4/2.4.9.md",
+      "slug": "/general/releases/2.4/2.4.9"
+    }
+  ],
+  "Moodle_2.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.4.md",
+      "slug": "/general/releases/2.4"
+    }
+  ],
+  "Moodle_2.5.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.1.md",
+      "slug": "/general/releases/2.5/2.5.1"
+    }
+  ],
+  "Moodle_2.5.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.2.md",
+      "slug": "/general/releases/2.5/2.5.2"
+    }
+  ],
+  "Moodle_2.5.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.3.md",
+      "slug": "/general/releases/2.5/2.5.3"
+    }
+  ],
+  "Moodle_2.5.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.4.md",
+      "slug": "/general/releases/2.5/2.5.4"
+    }
+  ],
+  "Moodle_2.5.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.5.md",
+      "slug": "/general/releases/2.5/2.5.5"
+    }
+  ],
+  "Moodle_2.5.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.6.md",
+      "slug": "/general/releases/2.5/2.5.6"
+    }
+  ],
+  "Moodle_2.5.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.7.md",
+      "slug": "/general/releases/2.5/2.5.7"
+    }
+  ],
+  "Moodle_2.5.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.8.md",
+      "slug": "/general/releases/2.5/2.5.8"
+    }
+  ],
+  "Moodle_2.5.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.5/2.5.9.md",
+      "slug": "/general/releases/2.5/2.5.9"
+    }
+  ],
+  "Moodle_2.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.5.md",
+      "slug": "/general/releases/2.5"
+    }
+  ],
+  "Moodle_2.6.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.10.md",
+      "slug": "/general/releases/2.6/2.6.10"
+    }
+  ],
+  "Moodle_2.6.11_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.11.md",
+      "slug": "/general/releases/2.6/2.6.11"
+    }
+  ],
+  "Moodle_2.6.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.1.md",
+      "slug": "/general/releases/2.6/2.6.1"
+    }
+  ],
+  "Moodle_2.6.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.2.md",
+      "slug": "/general/releases/2.6/2.6.2"
+    }
+  ],
+  "Moodle_2.6.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.3.md",
+      "slug": "/general/releases/2.6/2.6.3"
+    }
+  ],
+  "Moodle_2.6.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.4.md",
+      "slug": "/general/releases/2.6/2.6.4"
+    }
+  ],
+  "Moodle_2.6.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.5.md",
+      "slug": "/general/releases/2.6/2.6.5"
+    }
+  ],
+  "Moodle_2.6.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.6.md",
+      "slug": "/general/releases/2.6/2.6.6"
+    }
+  ],
+  "Moodle_2.6.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.7.md",
+      "slug": "/general/releases/2.6/2.6.7"
+    }
+  ],
+  "Moodle_2.6.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.8.md",
+      "slug": "/general/releases/2.6/2.6.8"
+    }
+  ],
+  "Moodle_2.6.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.6/2.6.9.md",
+      "slug": "/general/releases/2.6/2.6.9"
+    }
+  ],
+  "Moodle_2.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.6.md",
+      "slug": "/general/releases/2.6"
+    }
+  ],
+  "Moodle_2.7.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.10.md",
+      "slug": "/general/releases/2.7/2.7.10"
+    }
+  ],
+  "Moodle_2.7.11_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.11.md",
+      "slug": "/general/releases/2.7/2.7.11"
+    }
+  ],
+  "Moodle_2.7.12_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.12.md",
+      "slug": "/general/releases/2.7/2.7.12"
+    }
+  ],
+  "Moodle_2.7.13_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.13.md",
+      "slug": "/general/releases/2.7/2.7.13"
+    }
+  ],
+  "Moodle_2.7.14_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.14.md",
+      "slug": "/general/releases/2.7/2.7.14"
+    }
+  ],
+  "Moodle_2.7.15_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.15.md",
+      "slug": "/general/releases/2.7/2.7.15"
+    }
+  ],
+  "Moodle_2.7.16_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.16.md",
+      "slug": "/general/releases/2.7/2.7.16"
+    }
+  ],
+  "Moodle_2.7.17_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.17.md",
+      "slug": "/general/releases/2.7/2.7.17"
+    }
+  ],
+  "Moodle_2.7.18_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.18.md",
+      "slug": "/general/releases/2.7/2.7.18"
+    }
+  ],
+  "Moodle_2.7.19_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.19.md",
+      "slug": "/general/releases/2.7/2.7.19"
+    }
+  ],
+  "Moodle_2.7.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.1.md",
+      "slug": "/general/releases/2.7/2.7.1"
+    }
+  ],
+  "Moodle_2.7.20_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.20.md",
+      "slug": "/general/releases/2.7/2.7.20"
+    }
+  ],
+  "Moodle_2.7.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.2.md",
+      "slug": "/general/releases/2.7/2.7.2"
+    }
+  ],
+  "Moodle_2.7.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.3.md",
+      "slug": "/general/releases/2.7/2.7.3"
+    }
+  ],
+  "Moodle_2.7.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.4.md",
+      "slug": "/general/releases/2.7/2.7.4"
+    }
+  ],
+  "Moodle_2.7.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.5.md",
+      "slug": "/general/releases/2.7/2.7.5"
+    }
+  ],
+  "Moodle_2.7.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.6.md",
+      "slug": "/general/releases/2.7/2.7.6"
+    }
+  ],
+  "Moodle_2.7.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.7.md",
+      "slug": "/general/releases/2.7/2.7.7"
+    }
+  ],
+  "Moodle_2.7.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.8.md",
+      "slug": "/general/releases/2.7/2.7.8"
+    }
+  ],
+  "Moodle_2.7.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.7/2.7.9.md",
+      "slug": "/general/releases/2.7/2.7.9"
+    }
+  ],
+  "Moodle_2.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.7.md",
+      "slug": "/general/releases/2.7"
+    }
+  ],
+  "Moodle_2.8.10_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.10.md",
+      "slug": "/general/releases/2.8/2.8.10"
+    }
+  ],
+  "Moodle_2.8.11_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.11.md",
+      "slug": "/general/releases/2.8/2.8.11"
+    }
+  ],
+  "Moodle_2.8.12_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.12.md",
+      "slug": "/general/releases/2.8/2.8.12"
+    }
+  ],
+  "Moodle_2.8.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.1.md",
+      "slug": "/general/releases/2.8/2.8.1"
+    }
+  ],
+  "Moodle_2.8.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.2.md",
+      "slug": "/general/releases/2.8/2.8.2"
+    }
+  ],
+  "Moodle_2.8.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.3.md",
+      "slug": "/general/releases/2.8/2.8.3"
+    }
+  ],
+  "Moodle_2.8.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.4.md",
+      "slug": "/general/releases/2.8/2.8.4"
+    }
+  ],
+  "Moodle_2.8.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.5.md",
+      "slug": "/general/releases/2.8/2.8.5"
+    }
+  ],
+  "Moodle_2.8.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.6.md",
+      "slug": "/general/releases/2.8/2.8.6"
+    }
+  ],
+  "Moodle_2.8.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.7.md",
+      "slug": "/general/releases/2.8/2.8.7"
+    }
+  ],
+  "Moodle_2.8.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.8.md",
+      "slug": "/general/releases/2.8/2.8.8"
+    }
+  ],
+  "Moodle_2.8.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.8/2.8.9.md",
+      "slug": "/general/releases/2.8/2.8.9"
+    }
+  ],
+  "Moodle_2.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.8.md",
+      "slug": "/general/releases/2.8"
+    }
+  ],
+  "Moodle_2.9.1_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.1.md",
+      "slug": "/general/releases/2.9/2.9.1"
+    }
+  ],
+  "Moodle_2.9.2_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.2.md",
+      "slug": "/general/releases/2.9/2.9.2"
+    }
+  ],
+  "Moodle_2.9.3_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.3.md",
+      "slug": "/general/releases/2.9/2.9.3"
+    }
+  ],
+  "Moodle_2.9.4_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.4.md",
+      "slug": "/general/releases/2.9/2.9.4"
+    }
+  ],
+  "Moodle_2.9.5_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.5.md",
+      "slug": "/general/releases/2.9/2.9.5"
+    }
+  ],
+  "Moodle_2.9.6_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.6.md",
+      "slug": "/general/releases/2.9/2.9.6"
+    }
+  ],
+  "Moodle_2.9.7_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.7.md",
+      "slug": "/general/releases/2.9/2.9.7"
+    }
+  ],
+  "Moodle_2.9.8_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.8.md",
+      "slug": "/general/releases/2.9/2.9.8"
+    }
+  ],
+  "Moodle_2.9.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.9/2.9.9.md",
+      "slug": "/general/releases/2.9/2.9.9"
+    }
+  ],
+  "Moodle_2.9_release_notes": [
+    {
+      "filePath": "/general/releases/2.9.md",
+      "slug": "/general/releases/2.9"
+    }
+  ],
+  "Moodle_3.0.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.10.md",
+      "slug": "/general/releases/3.0/3.0.10"
+    }
+  ],
+  "Moodle_3.0.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.1.md",
+      "slug": "/general/releases/3.0/3.0.1"
+    }
+  ],
+  "Moodle_3.0.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.2.md",
+      "slug": "/general/releases/3.0/3.0.2"
+    }
+  ],
+  "Moodle_3.0.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.3.md",
+      "slug": "/general/releases/3.0/3.0.3"
+    }
+  ],
+  "Moodle_3.0.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.4.md",
+      "slug": "/general/releases/3.0/3.0.4"
+    }
+  ],
+  "Moodle_3.0.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.5.md",
+      "slug": "/general/releases/3.0/3.0.5"
+    }
+  ],
+  "Moodle_3.0.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.6.md",
+      "slug": "/general/releases/3.0/3.0.6"
+    }
+  ],
+  "Moodle_3.0.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.7.md",
+      "slug": "/general/releases/3.0/3.0.7"
+    }
+  ],
+  "Moodle_3.0.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.8.md",
+      "slug": "/general/releases/3.0/3.0.8"
+    }
+  ],
+  "Moodle_3.0.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.0/3.0.9.md",
+      "slug": "/general/releases/3.0/3.0.9"
+    }
+  ],
+  "Moodle_3.0_release_notes": [
+    {
+      "filePath": "/general/releases/3.0.md",
+      "slug": "/general/releases/3.0"
+    }
+  ],
+  "Moodle_3.1.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.10.md",
+      "slug": "/general/releases/3.1/3.1.10"
+    }
+  ],
+  "Moodle_3.1.11_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.11.md",
+      "slug": "/general/releases/3.1/3.1.11"
+    }
+  ],
+  "Moodle_3.1.12_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.12.md",
+      "slug": "/general/releases/3.1/3.1.12"
+    }
+  ],
+  "Moodle_3.1.13_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.13.md",
+      "slug": "/general/releases/3.1/3.1.13"
+    }
+  ],
+  "Moodle_3.1.14_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.14.md",
+      "slug": "/general/releases/3.1/3.1.14"
+    }
+  ],
+  "Moodle_3.1.15_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.15.md",
+      "slug": "/general/releases/3.1/3.1.15"
+    }
+  ],
+  "Moodle_3.1.16_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.16.md",
+      "slug": "/general/releases/3.1/3.1.16"
+    }
+  ],
+  "Moodle_3.1.17_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.17.md",
+      "slug": "/general/releases/3.1/3.1.17"
+    }
+  ],
+  "Moodle_3.1.18_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.18.md",
+      "slug": "/general/releases/3.1/3.1.18"
+    }
+  ],
+  "Moodle_3.1.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.1.md",
+      "slug": "/general/releases/3.1/3.1.1"
+    }
+  ],
+  "Moodle_3.1.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.2.md",
+      "slug": "/general/releases/3.1/3.1.2"
+    }
+  ],
+  "Moodle_3.1.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.3.md",
+      "slug": "/general/releases/3.1/3.1.3"
+    }
+  ],
+  "Moodle_3.1.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.4.md",
+      "slug": "/general/releases/3.1/3.1.4"
+    }
+  ],
+  "Moodle_3.1.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.5.md",
+      "slug": "/general/releases/3.1/3.1.5"
+    }
+  ],
+  "Moodle_3.1.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.6.md",
+      "slug": "/general/releases/3.1/3.1.6"
+    }
+  ],
+  "Moodle_3.1.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.7.md",
+      "slug": "/general/releases/3.1/3.1.7"
+    }
+  ],
+  "Moodle_3.1.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.8.md",
+      "slug": "/general/releases/3.1/3.1.8"
+    }
+  ],
+  "Moodle_3.1.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.1/3.1.9.md",
+      "slug": "/general/releases/3.1/3.1.9"
+    }
+  ],
+  "Moodle_3.10.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.10.md",
+      "slug": "/general/releases/3.10/3.10.10"
+    }
+  ],
+  "Moodle_3.10.11_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.11.md",
+      "slug": "/general/releases/3.10/3.10.11"
+    }
+  ],
+  "Moodle_3.10.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.1.md",
+      "slug": "/general/releases/3.10/3.10.1"
+    }
+  ],
+  "Moodle_3.10.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.2.md",
+      "slug": "/general/releases/3.10/3.10.2"
+    }
+  ],
+  "Moodle_3.10.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.3.md",
+      "slug": "/general/releases/3.10/3.10.3"
+    }
+  ],
+  "Moodle_3.10.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.4.md",
+      "slug": "/general/releases/3.10/3.10.4"
+    }
+  ],
+  "Moodle_3.10.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.5.md",
+      "slug": "/general/releases/3.10/3.10.5"
+    }
+  ],
+  "Moodle_3.10.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.6.md",
+      "slug": "/general/releases/3.10/3.10.6"
+    }
+  ],
+  "Moodle_3.10.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.7.md",
+      "slug": "/general/releases/3.10/3.10.7"
+    }
+  ],
+  "Moodle_3.10.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.8.md",
+      "slug": "/general/releases/3.10/3.10.8"
+    }
+  ],
+  "Moodle_3.10.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.10/3.10.9.md",
+      "slug": "/general/releases/3.10/3.10.9"
+    }
+  ],
+  "Moodle_3.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.10.md",
+      "slug": "/general/releases/3.10"
+    }
+  ],
+  "Moodle_3.11.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.1.md",
+      "slug": "/general/releases/3.11/3.11.1"
+    }
+  ],
+  "Moodle_3.11.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.2.md",
+      "slug": "/general/releases/3.11/3.11.2"
+    }
+  ],
+  "Moodle_3.11.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.3.md",
+      "slug": "/general/releases/3.11/3.11.3"
+    }
+  ],
+  "Moodle_3.11.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.4.md",
+      "slug": "/general/releases/3.11/3.11.4"
+    }
+  ],
+  "Moodle_3.11.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.5.md",
+      "slug": "/general/releases/3.11/3.11.5"
+    }
+  ],
+  "Moodle_3.11.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.6.md",
+      "slug": "/general/releases/3.11/3.11.6"
+    }
+  ],
+  "Moodle_3.11.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.7.md",
+      "slug": "/general/releases/3.11/3.11.7"
+    }
+  ],
+  "Moodle_3.11.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.11/3.11.8.md",
+      "slug": "/general/releases/3.11/3.11.8"
+    }
+  ],
+  "Moodle_3.11_release_notes": [
+    {
+      "filePath": "/general/releases/3.11.md",
+      "slug": "/general/releases/3.11"
+    }
+  ],
+  "Moodle_3.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.1.md",
+      "slug": "/general/releases/3.1"
+    }
+  ],
+  "Moodle_3.2.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.1.md",
+      "slug": "/general/releases/3.2/3.2.1"
+    }
+  ],
+  "Moodle_3.2.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.2.md",
+      "slug": "/general/releases/3.2/3.2.2"
+    }
+  ],
+  "Moodle_3.2.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.3.md",
+      "slug": "/general/releases/3.2/3.2.3"
+    }
+  ],
+  "Moodle_3.2.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.4.md",
+      "slug": "/general/releases/3.2/3.2.4"
+    }
+  ],
+  "Moodle_3.2.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.5.md",
+      "slug": "/general/releases/3.2/3.2.5"
+    }
+  ],
+  "Moodle_3.2.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.6.md",
+      "slug": "/general/releases/3.2/3.2.6"
+    }
+  ],
+  "Moodle_3.2.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.7.md",
+      "slug": "/general/releases/3.2/3.2.7"
+    }
+  ],
+  "Moodle_3.2.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.8.md",
+      "slug": "/general/releases/3.2/3.2.8"
+    }
+  ],
+  "Moodle_3.2.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.2/3.2.9.md",
+      "slug": "/general/releases/3.2/3.2.9"
+    }
+  ],
+  "Moodle_3.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.2.md",
+      "slug": "/general/releases/3.2"
+    }
+  ],
+  "Moodle_3.3.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.1.md",
+      "slug": "/general/releases/3.3/3.3.1"
+    }
+  ],
+  "Moodle_3.3.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.2.md",
+      "slug": "/general/releases/3.3/3.3.2"
+    }
+  ],
+  "Moodle_3.3.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.3.md",
+      "slug": "/general/releases/3.3/3.3.3"
+    }
+  ],
+  "Moodle_3.3.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.4.md",
+      "slug": "/general/releases/3.3/3.3.4"
+    }
+  ],
+  "Moodle_3.3.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.5.md",
+      "slug": "/general/releases/3.3/3.3.5"
+    }
+  ],
+  "Moodle_3.3.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.6.md",
+      "slug": "/general/releases/3.3/3.3.6"
+    }
+  ],
+  "Moodle_3.3.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.7.md",
+      "slug": "/general/releases/3.3/3.3.7"
+    }
+  ],
+  "Moodle_3.3.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.8.md",
+      "slug": "/general/releases/3.3/3.3.8"
+    }
+  ],
+  "Moodle_3.3.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.3/3.3.9.md",
+      "slug": "/general/releases/3.3/3.3.9"
+    }
+  ],
+  "Moodle_3.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.3.md",
+      "slug": "/general/releases/3.3"
+    }
+  ],
+  "Moodle_3.4.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.1.md",
+      "slug": "/general/releases/3.4/3.4.1"
+    }
+  ],
+  "Moodle_3.4.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.2.md",
+      "slug": "/general/releases/3.4/3.4.2"
+    }
+  ],
+  "Moodle_3.4.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.3.md",
+      "slug": "/general/releases/3.4/3.4.3"
+    }
+  ],
+  "Moodle_3.4.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.4.md",
+      "slug": "/general/releases/3.4/3.4.4"
+    }
+  ],
+  "Moodle_3.4.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.5.md",
+      "slug": "/general/releases/3.4/3.4.5"
+    }
+  ],
+  "Moodle_3.4.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.6.md",
+      "slug": "/general/releases/3.4/3.4.6"
+    }
+  ],
+  "Moodle_3.4.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.7.md",
+      "slug": "/general/releases/3.4/3.4.7"
+    }
+  ],
+  "Moodle_3.4.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.8.md",
+      "slug": "/general/releases/3.4/3.4.8"
+    }
+  ],
+  "Moodle_3.4.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.4/3.4.9.md",
+      "slug": "/general/releases/3.4/3.4.9"
+    }
+  ],
+  "Moodle_3.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.4.md",
+      "slug": "/general/releases/3.4"
+    }
+  ],
+  "Moodle_3.5.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.10.md",
+      "slug": "/general/releases/3.5/3.5.10"
+    }
+  ],
+  "Moodle_3.5.11_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.11.md",
+      "slug": "/general/releases/3.5/3.5.11"
+    }
+  ],
+  "Moodle_3.5.12_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.12.md",
+      "slug": "/general/releases/3.5/3.5.12"
+    }
+  ],
+  "Moodle_3.5.13_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.13.md",
+      "slug": "/general/releases/3.5/3.5.13"
+    }
+  ],
+  "Moodle_3.5.14_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.14.md",
+      "slug": "/general/releases/3.5/3.5.14"
+    }
+  ],
+  "Moodle_3.5.15_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.15.md",
+      "slug": "/general/releases/3.5/3.5.15"
+    }
+  ],
+  "Moodle_3.5.16_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.16.md",
+      "slug": "/general/releases/3.5/3.5.16"
+    }
+  ],
+  "Moodle_3.5.17_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.17.md",
+      "slug": "/general/releases/3.5/3.5.17"
+    }
+  ],
+  "Moodle_3.5.18_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.18.md",
+      "slug": "/general/releases/3.5/3.5.18"
+    }
+  ],
+  "Moodle_3.5.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.1.md",
+      "slug": "/general/releases/3.5/3.5.1"
+    }
+  ],
+  "Moodle_3.5.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.2.md",
+      "slug": "/general/releases/3.5/3.5.2"
+    }
+  ],
+  "Moodle_3.5.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.3.md",
+      "slug": "/general/releases/3.5/3.5.3"
+    }
+  ],
+  "Moodle_3.5.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.4.md",
+      "slug": "/general/releases/3.5/3.5.4"
+    }
+  ],
+  "Moodle_3.5.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.5.md",
+      "slug": "/general/releases/3.5/3.5.5"
+    }
+  ],
+  "Moodle_3.5.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.6.md",
+      "slug": "/general/releases/3.5/3.5.6"
+    }
+  ],
+  "Moodle_3.5.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.7.md",
+      "slug": "/general/releases/3.5/3.5.7"
+    }
+  ],
+  "Moodle_3.5.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.8.md",
+      "slug": "/general/releases/3.5/3.5.8"
+    }
+  ],
+  "Moodle_3.5.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.5/3.5.9.md",
+      "slug": "/general/releases/3.5/3.5.9"
+    }
+  ],
+  "Moodle_3.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.5.md",
+      "slug": "/general/releases/3.5"
+    }
+  ],
+  "Moodle_3.6.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.10.md",
+      "slug": "/general/releases/3.6/3.6.10"
+    }
+  ],
+  "Moodle_3.6.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.1.md",
+      "slug": "/general/releases/3.6/3.6.1"
+    }
+  ],
+  "Moodle_3.6.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.2.md",
+      "slug": "/general/releases/3.6/3.6.2"
+    }
+  ],
+  "Moodle_3.6.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.3.md",
+      "slug": "/general/releases/3.6/3.6.3"
+    }
+  ],
+  "Moodle_3.6.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.4.md",
+      "slug": "/general/releases/3.6/3.6.4"
+    }
+  ],
+  "Moodle_3.6.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.5.md",
+      "slug": "/general/releases/3.6/3.6.5"
+    }
+  ],
+  "Moodle_3.6.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.6.md",
+      "slug": "/general/releases/3.6/3.6.6"
+    }
+  ],
+  "Moodle_3.6.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.7.md",
+      "slug": "/general/releases/3.6/3.6.7"
+    }
+  ],
+  "Moodle_3.6.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.8.md",
+      "slug": "/general/releases/3.6/3.6.8"
+    }
+  ],
+  "Moodle_3.6.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.6/3.6.9.md",
+      "slug": "/general/releases/3.6/3.6.9"
+    }
+  ],
+  "Moodle_3.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.6.md",
+      "slug": "/general/releases/3.6"
+    }
+  ],
+  "Moodle_3.7.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.1.md",
+      "slug": "/general/releases/3.7/3.7.1"
+    }
+  ],
+  "Moodle_3.7.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.2.md",
+      "slug": "/general/releases/3.7/3.7.2"
+    }
+  ],
+  "Moodle_3.7.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.3.md",
+      "slug": "/general/releases/3.7/3.7.3"
+    }
+  ],
+  "Moodle_3.7.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.4.md",
+      "slug": "/general/releases/3.7/3.7.4"
+    }
+  ],
+  "Moodle_3.7.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.5.md",
+      "slug": "/general/releases/3.7/3.7.5"
+    }
+  ],
+  "Moodle_3.7.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.6.md",
+      "slug": "/general/releases/3.7/3.7.6"
+    }
+  ],
+  "Moodle_3.7.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.7.md",
+      "slug": "/general/releases/3.7/3.7.7"
+    }
+  ],
+  "Moodle_3.7.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.8.md",
+      "slug": "/general/releases/3.7/3.7.8"
+    }
+  ],
+  "Moodle_3.7.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.7/3.7.9.md",
+      "slug": "/general/releases/3.7/3.7.9"
+    }
+  ],
+  "Moodle_3.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.7.md",
+      "slug": "/general/releases/3.7"
+    }
+  ],
+  "Moodle_3.8.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.1.md",
+      "slug": "/general/releases/3.8/3.8.1"
+    }
+  ],
+  "Moodle_3.8.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.2.md",
+      "slug": "/general/releases/3.8/3.8.2"
+    }
+  ],
+  "Moodle_3.8.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.3.md",
+      "slug": "/general/releases/3.8/3.8.3"
+    }
+  ],
+  "Moodle_3.8.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.4.md",
+      "slug": "/general/releases/3.8/3.8.4"
+    }
+  ],
+  "Moodle_3.8.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.5.md",
+      "slug": "/general/releases/3.8/3.8.5"
+    }
+  ],
+  "Moodle_3.8.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.6.md",
+      "slug": "/general/releases/3.8/3.8.6"
+    }
+  ],
+  "Moodle_3.8.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.7.md",
+      "slug": "/general/releases/3.8/3.8.7"
+    }
+  ],
+  "Moodle_3.8.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.8.md",
+      "slug": "/general/releases/3.8/3.8.8"
+    }
+  ],
+  "Moodle_3.8.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.8/3.8.9.md",
+      "slug": "/general/releases/3.8/3.8.9"
+    }
+  ],
+  "Moodle_3.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.8.md",
+      "slug": "/general/releases/3.8"
+    }
+  ],
+  "Moodle_3.9.10_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.10.md",
+      "slug": "/general/releases/3.9/3.9.10"
+    }
+  ],
+  "Moodle_3.9.11_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.11.md",
+      "slug": "/general/releases/3.9/3.9.11"
+    }
+  ],
+  "Moodle_3.9.12_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.12.md",
+      "slug": "/general/releases/3.9/3.9.12"
+    }
+  ],
+  "Moodle_3.9.13_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.13.md",
+      "slug": "/general/releases/3.9/3.9.13"
+    }
+  ],
+  "Moodle_3.9.14_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.14.md",
+      "slug": "/general/releases/3.9/3.9.14"
+    }
+  ],
+  "Moodle_3.9.15_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.15.md",
+      "slug": "/general/releases/3.9/3.9.15"
+    }
+  ],
+  "Moodle_3.9.1_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.1.md",
+      "slug": "/general/releases/3.9/3.9.1"
+    }
+  ],
+  "Moodle_3.9.2_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.2.md",
+      "slug": "/general/releases/3.9/3.9.2"
+    }
+  ],
+  "Moodle_3.9.3_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.3.md",
+      "slug": "/general/releases/3.9/3.9.3"
+    }
+  ],
+  "Moodle_3.9.4_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.4.md",
+      "slug": "/general/releases/3.9/3.9.4"
+    }
+  ],
+  "Moodle_3.9.5_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.5.md",
+      "slug": "/general/releases/3.9/3.9.5"
+    }
+  ],
+  "Moodle_3.9.6_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.6.md",
+      "slug": "/general/releases/3.9/3.9.6"
+    }
+  ],
+  "Moodle_3.9.7_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.7.md",
+      "slug": "/general/releases/3.9/3.9.7"
+    }
+  ],
+  "Moodle_3.9.8_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.8.md",
+      "slug": "/general/releases/3.9/3.9.8"
+    }
+  ],
+  "Moodle_3.9.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.9/3.9.9.md",
+      "slug": "/general/releases/3.9/3.9.9"
+    }
+  ],
+  "Moodle_3.9_release_notes": [
+    {
+      "filePath": "/general/releases/3.9.md",
+      "slug": "/general/releases/3.9"
+    }
+  ],
+  "Moodle_4.0.1_release_notes": [
+    {
+      "filePath": "/general/releases/4.0/4.0.1.md",
+      "slug": "/general/releases/4.0/4.0.1"
+    }
+  ],
+  "Moodle_4.0.2_release_notes": [
+    {
+      "filePath": "/general/releases/4.0/4.0.2.md",
+      "slug": "/general/releases/4.0/4.0.2"
+    }
+  ],
+  "Moodle_4.0_developer_update": [
+    {
+      "filePath": "/docs/devupdate.md",
+      "slug": "/docs/devupdate"
+    }
+  ],
+  "Moodle_4.0_release_notes": [
+    {
+      "filePath": "/general/releases/4.0.md",
+      "slug": "/general/releases/4.0"
+    }
+  ],
+  "Moodle_and_PHP": [
+    {
+      "filePath": "/general/development/policies/php.md",
+      "slug": "/general/development/php"
+    }
+  ],
+  "Moodle_App": [
+    {
+      "filePath": "/docs/moodleapp.md",
+      "slug": "/docs/moodleapp"
+    }
+  ],
+  "Moodle_App_4.0.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v4/v4.0.0.md",
+      "slug": "/general/app_releases/v4/v4.0.0"
+    }
+  ],
+  "Moodle_App_4.0.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v4/v4.0.1.md",
+      "slug": "/general/app_releases/v4/v4.0.1"
+    }
+  ],
+  "Moodle_App_Accessibility": [
+    {
+      "filePath": "/docs/moodleapp/accessibility.md",
+      "slug": "/docs/moodleapp/accessibility"
+    }
+  ],
+  "Moodle_App_Coding_Style": [
+    {
+      "filePath": "/general/development/policies/codingstyle-moodleapp.md",
+      "slug": "/general/development/policies/codingstyle-moodleapp"
+    }
+  ],
+  "Moodle_App_Customisation": [
+    {
+      "filePath": "/docs/moodleapp/customisation/index.md",
+      "slug": "/docs/moodleapp/customisation"
+    }
+  ],
+  "Moodle_App_Deep_Linking": [
+    {
+      "filePath": "/docs/moodleapp/development/deep-linking.md",
+      "slug": "/docs/moodleapp/development/deep-linking"
+    }
+  ],
+  "Moodle_App_Development_Guide": [
+    {
+      "filePath": "/docs/moodleapp/development/development-guide.md",
+      "slug": "/docs/moodleapp/development/development-guide"
+    }
+  ],
+  "Moodle_App_Development_Process": [
+    {
+      "filePath": "/general/development/process-moodleapp.md",
+      "slug": "/general/development/process-moodleapp"
+    }
+  ],
+  "Moodle_App_Docker_Images": [
+    {
+      "filePath": "/docs/moodleapp/development/setup/docker-images.md",
+      "slug": "/docs/moodleapp/development/setup/docker-images"
+    }
+  ],
+  "Moodle_App_FAQ": [
+    {
+      "filePath": "/docs/moodleapp/faq.md",
+      "slug": "/docs/moodleapp/faq"
+    }
+  ],
+  "Moodle_App_Overview": [
+    {
+      "filePath": "/docs/moodleapp/overview.md",
+      "slug": "/docs/moodleapp/overview"
+    }
+  ],
+  "Moodle_App_Plugins_Development_Guide": [
+    {
+      "filePath": "/docs/moodleapp/development/plugins-development-guide/index.md",
+      "slug": "/docs/moodleapp/development/plugins-development-guide"
+    }
+  ],
+  "Moodle_App_Plugins_Upgrade_Guide": [
+    {
+      "filePath": "/docs/moodleapp/upgrading/plugins-upgrade-guide.md",
+      "slug": "/docs/moodleapp/upgrading/plugins-upgrade-guide"
+    }
+  ],
+  "Moodle_App_Release_Notes": [
+    {
+      "filePath": "/general/app_releases.md",
+      "slug": "/general/app_releases"
+    }
+  ],
+  "Moodle_App_Release_Process": [
+    {
+      "filePath": "/docs/moodleapp/development/release-process.md",
+      "slug": "/docs/moodleapp/development/release-process"
+    }
+  ],
+  "Moodle_App_Remote_Themes": [
+    {
+      "filePath": "/docs/moodleapp/customisation/remote-themes.md",
+      "slug": "/docs/moodleapp/customisation/remote-themes"
+    }
+  ],
+  "Moodle_App_Remote_Themes_Upgrade_Guide": [
+    {
+      "filePath": "/docs/moodleapp/upgrading/remote-themes-upgrade-guide.md",
+      "slug": "/docs/moodleapp/upgrading/remote-themes-upgrade-guide"
+    }
+  ],
+  "Moodle_App_Scripts:_gulp_push": [
+    {
+      "filePath": "/docs/moodleapp/development/scripts/gulp-push.md",
+      "slug": "/docs/moodleapp/development/scripts/gulp-push"
+    }
+  ],
+  "Moodle_App_Translation": [
+    {
+      "filePath": "/general/development/process/translation/moodleapp.md",
+      "slug": "/general/development/process/translation/moodleapp"
+    }
+  ],
+  "Moodle_Development_kit": [
+    {
+      "filePath": "/general/development/tools/mdk.md",
+      "slug": "/general/development/tools/mdk"
+    }
+  ],
+  "Moodle_Mobile_1.3_Release_Notes": [
+    {
+      "filePath": "/general/app_releases/v1.x.md",
+      "slug": "/general/app_releases/v1.x"
+    }
+  ],
+  "Moodle_Mobile_1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v1.x.md",
+      "slug": "/general/app_releases/v1.x"
+    }
+  ],
+  "Moodle_Mobile_2.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.0.md",
+      "slug": "/general/app_releases/v2/v2.0"
+    }
+  ],
+  "Moodle_Mobile_2.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.1.md",
+      "slug": "/general/app_releases/v2/v2.1"
+    }
+  ],
+  "Moodle_Mobile_2.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.2.md",
+      "slug": "/general/app_releases/v2/v2.2"
+    }
+  ],
+  "Moodle_Mobile_2.3_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.3.md",
+      "slug": "/general/app_releases/v2/v2.3"
+    }
+  ],
+  "Moodle_Mobile_2.4_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.4.md",
+      "slug": "/general/app_releases/v2/v2.4"
+    }
+  ],
+  "Moodle_Mobile_2.5_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.5.md",
+      "slug": "/general/app_releases/v2/v2.5"
+    }
+  ],
+  "Moodle_Mobile_2.6_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.6.md",
+      "slug": "/general/app_releases/v2/v2.6"
+    }
+  ],
+  "Moodle_Mobile_2.7_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.7.md",
+      "slug": "/general/app_releases/v2/v2.7"
+    }
+  ],
+  "Moodle_Mobile_2.8_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.8.md",
+      "slug": "/general/app_releases/v2/v2.8"
+    }
+  ],
+  "Moodle_Mobile_2.9_release_notes": [
+    {
+      "filePath": "/general/app_releases/v2/v2.9.md",
+      "slug": "/general/app_releases/v2/v2.9"
+    }
+  ],
+  "Moodle_Mobile_3.0.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.0.0.md",
+      "slug": "/general/app_releases/v3/v3.0.0"
+    }
+  ],
+  "Moodle_Mobile_3.1.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.1.0.md",
+      "slug": "/general/app_releases/v3/v3.1.0"
+    }
+  ],
+  "Moodle_Mobile_3.1.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.1.1.md",
+      "slug": "/general/app_releases/v3/v3.1.1"
+    }
+  ],
+  "Moodle_Mobile_3.1.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.1.2.md",
+      "slug": "/general/app_releases/v3/v3.1.2"
+    }
+  ],
+  "Moodle_Mobile_3.1.3_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.1.3.md",
+      "slug": "/general/app_releases/v3/v3.1.3"
+    }
+  ],
+  "Moodle_Mobile_3.2.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.2.0.md",
+      "slug": "/general/app_releases/v3/v3.2.0"
+    }
+  ],
+  "Moodle_Mobile_3.2.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.2.1.md",
+      "slug": "/general/app_releases/v3/v3.2.1"
+    }
+  ],
+  "Moodle_Mobile_3.3.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.3.0.md",
+      "slug": "/general/app_releases/v3/v3.3.0"
+    }
+  ],
+  "Moodle_Mobile_3.3.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.3.1.md",
+      "slug": "/general/app_releases/v3/v3.3.1"
+    }
+  ],
+  "Moodle_Mobile_3.3.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.3.2.md",
+      "slug": "/general/app_releases/v3/v3.3.2"
+    }
+  ],
+  "Moodle_Mobile_3.4.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.4.0.md",
+      "slug": "/general/app_releases/v3/v3.4.0"
+    }
+  ],
+  "Moodle_Mobile_3.4.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.4.1.md",
+      "slug": "/general/app_releases/v3/v3.4.1"
+    }
+  ],
+  "Moodle_Mobile_3.4.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.4.2.md",
+      "slug": "/general/app_releases/v3/v3.4.2"
+    }
+  ],
+  "Moodle_Mobile_3.5.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.5.0.md",
+      "slug": "/general/app_releases/v3/v3.5.0"
+    }
+  ],
+  "Moodle_Mobile_3.5.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.5.1.md",
+      "slug": "/general/app_releases/v3/v3.5.1"
+    }
+  ],
+  "Moodle_Mobile_3.5.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.5.2.md",
+      "slug": "/general/app_releases/v3/v3.5.2"
+    }
+  ],
+  "Moodle_Mobile_3.6.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.6.0.md",
+      "slug": "/general/app_releases/v3/v3.6.0"
+    }
+  ],
+  "Moodle_Mobile_3.6.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.6.1.md",
+      "slug": "/general/app_releases/v3/v3.6.1"
+    }
+  ],
+  "Moodle_Mobile_3.7.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.7.0.md",
+      "slug": "/general/app_releases/v3/v3.7.0"
+    }
+  ],
+  "Moodle_Mobile_3.7.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.7.1.md",
+      "slug": "/general/app_releases/v3/v3.7.1"
+    }
+  ],
+  "Moodle_Mobile_3.7.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.7.2.md",
+      "slug": "/general/app_releases/v3/v3.7.2"
+    }
+  ],
+  "Moodle_Mobile_3.8.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.8.0.md",
+      "slug": "/general/app_releases/v3/v3.8.0"
+    }
+  ],
+  "Moodle_Mobile_3.8.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.8.1.md",
+      "slug": "/general/app_releases/v3/v3.8.1"
+    }
+  ],
+  "Moodle_Mobile_3.8.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.8.2.md",
+      "slug": "/general/app_releases/v3/v3.8.2"
+    }
+  ],
+  "Moodle_Mobile_3.9.0_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.9.0.md",
+      "slug": "/general/app_releases/v3/v3.9.0"
+    }
+  ],
+  "Moodle_Mobile_3.9.1_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.9.1.md",
+      "slug": "/general/app_releases/v3/v3.9.1"
+    }
+  ],
+  "Moodle_Mobile_3.9.2_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.9.2.md",
+      "slug": "/general/app_releases/v3/v3.9.2"
+    }
+  ],
+  "Moodle_Mobile_3.9.3_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.9.3.md",
+      "slug": "/general/app_releases/v3/v3.9.3"
+    }
+  ],
+  "Moodle_Mobile_3.9.4_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.9.4.md",
+      "slug": "/general/app_releases/v3/v3.9.4"
+    }
+  ],
+  "Moodle_Mobile_3.9.5_release_notes": [
+    {
+      "filePath": "/general/app_releases/v3/v3.9.5.md",
+      "slug": "/general/app_releases/v3/v3.9.5"
+    }
+  ],
+  "Moodle_Penetration_Testing": [
+    {
+      "filePath": "/general/development/process/security/penetration-testing.md",
+      "slug": "/general/development/process/security/penetration-testing"
+    }
+  ],
+  "Moodle_libraries_credits": [
+    {
+      "filePath": "/general/community/credits/thirdpartylibs.md",
+      "slug": "/general/community/credits/thirdpartylibs"
+    }
+  ],
+  "Moodle_research": [
+    {
+      "filePath": "/general/community/research.md",
+      "slug": "/general/community/research"
+    }
+  ],
+  "Moodle_security_procedures": [
+    {
+      "filePath": "/general/development/process/security.md",
+      "slug": "/general/development/process/security"
+    }
+  ],
+  "Navigation_API": [
+    {
+      "filePath": "/docs/apis/core/navigation/index.md",
+      "slug": "/docs/apis/core/navigation/"
+    }
+  ],
+  "New_docs_version_process": [
+    {
+      "filePath": "/general/development/process/release/newuserdocs.md",
+      "slug": "/general/development/process/release/newuserdocs"
+    }
+  ],
+  "Output_API": [
+    {
+      "filePath": "/docs/apis/subsystems/output.md",
+      "slug": "/docs/apis/subsystems/output"
+    }
+  ],
+  "Output_functions": [
+    {
+      "filePath": "/docs/apis/subsystems/output.md",
+      "slug": "/docs/apis/subsystems/output#output-functions"
+    }
+  ],
+  "Overview": [
+    {
+      "filePath": "/general/community/intro.md",
+      "slug": "/general/community"
+    }
+  ],
+  "PHPUnit": [
+    {
+      "filePath": "/general/development/tools/phpunit.md",
+      "slug": "/general/development/tools/phpunit"
+    }
+  ],
+  "Peer_reviewing": [
+    {
+      "filePath": "/general/development/process/peer-review.md",
+      "slug": "/general/development/process/peer-review"
+    }
+  ],
+  "Plagiarism_API": [
+    {
+      "filePath": "/docs/apis/subsystems/plagiarism.md",
+      "slug": "/docs/apis/subsystems/plagiarism"
+    }
+  ],
+  "Plugin_files": [
+    {
+      "filePath": "/docs/apis/commonfiles.md",
+      "slug": "/docs/apis/commonfiles"
+    }
+  ],
+  "Plugin_types": [
+    {
+      "filePath": "/docs/apis/plugintypes/index.md",
+      "slug": "/docs/apis/plugintypes/"
+    }
+  ],
+  "Preference_API": [
+    {
+      "filePath": "/docs/apis/core/preference/index.md",
+      "slug": "/docs/apis/core/preference/"
+    }
+  ],
+  "Privacy_API": [
+    {
+      "filePath": "/docs/apis/subsystems/privacy/index.md",
+      "slug": "/docs/apis/subsystems/privacy/"
+    }
+  ],
+  "Privacy_API/Utilities": [
+    {
+      "filePath": "/docs/apis/subsystems/privacy/utils.md",
+      "slug": "/docs/apis/subsystems/privacy/utils"
+    }
+  ],
+  "Process": [
+    {
+      "filePath": "/general/development/process.md",
+      "slug": "/general/development/process"
+    }
+  ],
+  "QA_testing": [
+    {
+      "filePath": "/general/development/process/testing/qa.md",
+      "slug": "/general/development/process/testing/qa"
+    }
+  ],
+  "Question_bank_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/qbank/index.mdx",
+      "slug": "docs/apis/plugintypes/qbank"
+    }
+  ],
+  "Release_process": [
+    {
+      "filePath": "/general/development/process/release/index.md",
+      "slug": "/general/development/process/release"
+    }
+  ],
+  "Releases": [
+    {
+      "filePath": "/general/releases.md",
+      "slug": "/general/releases"
+    }
+  ],
+  "Repository_API": [
+    {
+      "filePath": "/docs/apis/plugintypes/repository/index",
+      "slug": "/docs/apis/plugintypes/repository"
+    }
+  ],
+  "Repository_plugins": [
+    {
+      "filePath": "/docs/apis/plugintypes/repository/index",
+      "slug": "/docs/apis/plugintypes/repository"
+    }
+  ],
+  "Roadmap": [
+    {
+      "filePath": "/general/community/roadmap.md",
+      "slug": "/general/community/roadmap"
+    }
+  ],
+  "Roles": [
+    {
+      "filePath": "/docs/apis/subsystems/roles.md",
+      "slug": "/docs/apis/subsystems/roles"
+    }
+  ],
+  "Running_acceptance_test": [
+    {
+      "filePath": "/general/development/tools/behat/running.md",
+      "slug": "/general/development/tools/behat/running"
+    }
+  ],
+  "SQL_coding_style": [
+    {
+      "filePath": "/general/development/policies/codingstyle/sql.md",
+      "slug": "/general/development/policies/codingstyle/sql"
+    }
+  ],
+  "Security": [
+    {
+      "filePath": "/general/development/policies/security/index.md",
+      "slug": "/general/development/policies/security"
+    }
+  ],
+  "Security:Brute-forcing_login": [
+    {
+      "filePath": "/general/development/policies/security/bruteforcing-login.md",
+      "slug": "/general/development/policies/security/bruteforcing-login"
+    }
+  ],
+  "Security:Buffer_overruns,_and_other_platform_weaknesses": [
+    {
+      "filePath": "/general/development/policies/security/bufferoverruns.md",
+      "slug": "/general/development/policies/security/bufferoverruns"
+    }
+  ],
+  "Security:Command-line_injection": [
+    {
+      "filePath": "/general/development/policies/security/commandline-injection.md",
+      "slug": "/general/development/policies/security/commandline-injection"
+    }
+  ],
+  "Security:Confidential_information_leakage": [
+    {
+      "filePath": "/general/development/policies/security/info-leakage.md",
+      "slug": "/general/development/policies/security/info-leakage"
+    }
+  ],
+  "Security:Configuration_information_leakage": [
+    {
+      "filePath": "/general/development/policies/security/configinfo-leakage.md",
+      "slug": "/general/development/policies/security/configinfo-leakage"
+    }
+  ],
+  "Security:Cross-site_request_forgery": [
+    {
+      "filePath": "/general/development/policies/security/crosssite-request-forgery.md",
+      "slug": "/general/development/policies/security/crosssite-request-forgery"
+    }
+  ],
+  "Security:Cross-site_scripting": [
+    {
+      "filePath": "/general/development/policies/security/crosssite-scripting.md",
+      "slug": "/general/development/policies/security/crosssite-scripting"
+    }
+  ],
+  "Security:Data-loss": [
+    {
+      "filePath": "/general/development/policies/security/dataloss.md",
+      "slug": "/general/development/policies/security/dataloss"
+    }
+  ],
+  "Security:Denial_of_service": [
+    {
+      "filePath": "/general/development/policies/security/dos.md",
+      "slug": "/general/development/policies/security/dos"
+    }
+  ],
+  "Security:Insecure_configuration_management": [
+    {
+      "filePath": "/general/development/policies/security/insecure-config.md",
+      "slug": "/general/development/policies/security/insecure-config"
+    }
+  ],
+  "Security:SQL_injection": [
+    {
+      "filePath": "/general/development/policies/security/sql-injection.md",
+      "slug": "/general/development/policies/security/sql-injection"
+    }
+  ],
+  "Security:Session_fixation": [
+    {
+      "filePath": "/general/development/policies/security/session-fixation.md",
+      "slug": "/general/development/policies/security/session-fixation"
+    }
+  ],
+  "Security:Social_engineering": [
+    {
+      "filePath": "/general/development/policies/security/socialengineering.md",
+      "slug": "/general/development/policies/security/socialengineering"
+    }
+  ],
+  "Security:Unauthenticated_access": [
+    {
+      "filePath": "/general/development/policies/security/unauthenticated-access.md",
+      "slug": "/general/development/policies/security/unauthenticated-access"
+    }
+  ],
+  "Security:Unauthorised_access": [
+    {
+      "filePath": "/general/development/policies/security/unauthorised-access.md",
+      "slug": "/general/development/policies/security/unauthorised-access"
+    }
+  ],
+  "Sending_custom_Push_Notifications_to_the_Moodle_App": [
+    {
+      "filePath": "/docs/moodleapp/development/custom-push-notifications.md",
+      "slug": "/docs/moodleapp/development/custom-push-notifications"
+    }
+  ],
+  "Setting_up_development_environment": [
+    {
+      "filePath": "general/development/gettingstarted.md",
+      "slug": "general/development/gettingstarted"
+    }
+  ],
+  "Setting_up_your_development_environment_for_the_Moodle_App": [
+    {
+      "filePath": "/docs/moodleapp/development/setup/index.md",
+      "slug": "/docs/moodleapp/development/setup"
+    }
+  ],
+  "Starting_a_new_language_pack": [
+    {
+      "filePath": "/general/development/process/translation/langpack/index.md",
+      "slug": "/general/development/process/translation/langpack"
+    }
+  ],
+  "String_deprecation": [
+    {
+      "filePath": "/general/projects/api/string-deprecation.md",
+      "slug": "/general/projects/api/string-deprecation"
+    }
+  ],
+  "Subject_Access_Request_FAQ": [
+    {
+      "filePath": "/docs/apis/subsystems/privacy/faq.md",
+      "slug": "/docs/apis/subsystems/privacy/faq"
+    }
+  ],
+  "Table_of_locales": [
+    {
+      "filePath": "/general/development/process/translation/langpack/locales.md",
+      "slug": "/general/development/process/translation/langpack/locales"
+    }
+  ],
+  "Templates": [
+    {
+      "filePath": "/docs/guides/templates/index.md",
+      "slug": "/docs/guides/templates/"
+    }
+  ],
+  "Testing": [
+    {
+      "filePath": "/general/development/process/testing/index.md",
+      "slug": "/general/development/process/testing"
+    }
+  ],
+  "Testing_credits": [
+    {
+      "filePath": "/general/community/credits/testing.md",
+      "slug": "/general/community/credits/testing"
+    }
+  ],
+  "Testing_instructions_guide": [
+    {
+      "filePath": "/general/development/process/testing/guide.md",
+      "slug": "/general/development/process/testing/guide"
+    }
+  ],
+  "Testing_of_integrated_issues": [
+    {
+      "filePath": "/general/development/process/testing/integrated-issues.md",
+      "slug": "/general/development/process/testing/integrated-issues"
+    }
+  ],
+  "Time_API": [
+    {
+      "filePath": "/docs/apis/subsystems/time/index.md",
+      "slug": "/docs/apis/subsystems/time/"
+    }
+  ],
+  "Tracker_guide": [
+    {
+      "filePath": "/general/development/tracker/guide.md",
+      "slug": "/general/development/tracker/guide"
+    }
+  ],
+  "Tracker_introduction": [
+    {
+      "filePath": "/general/development/tracker.md",
+      "slug": "/general/development/tracker"
+    }
+  ],
+  "Tracker_issue_labels": [
+    {
+      "filePath": "/general/development/tracker/labels.md",
+      "slug": "/general/development/tracker/labels"
+    }
+  ],
+  "Tracker_tips": [
+    {
+      "filePath": "/general/development/tracker/tips.md",
+      "slug": "/general/development/tracker/tips"
+    }
+  ],
+  "Translating_Moodle_Docs": [
+    {
+      "filePath": "/general/development/process/translation/docs.md",
+      "slug": "/general/development/process/translation/docs"
+    }
+  ],
+  "Translating_plugins": [
+    {
+      "filePath": "/general/development/process/translation/plugins.md",
+      "slug": "/general/development/process/translation/plugins"
+    }
+  ],
+  "Translation": [
+    {
+      "filePath": "/general/development/process/translation/index.md",
+      "slug": "/general/development/process/translation"
+    }
+  ],
+  "Translation_FAQ": [
+    {
+      "filePath": "/general/development/process/translation/faq.md",
+      "slug": "/general/development/process/translation/faq"
+    }
+  ],
+  "Translation_langconfig": [
+    {
+      "filePath": "/general/development/process/translation/langpack/langconfig.md",
+      "slug": "/general/development/process/translation/langpack/langconfig"
+    }
+  ],
+  "Translation_priority": [
+    {
+      "filePath": "/general/development/process/translation/langpack/priority.md",
+      "slug": "/general/development/process/translation/langpack/priority"
+    }
+  ],
+  "Unit_testing_for_the_Moodle_App": [
+    {
+      "filePath": "/docs/moodleapp/development/testing/unit-testing.md",
+      "slug": "/docs/moodleapp/development/testing/unit-testing"
+    }
+  ],
+  "Upgrade_API": [
+    {
+      "filePath": "/docs/guides/upgrade/index.md",
+      "slug": "/docs/guides/upgrade/"
+    }
+  ],
+  "Upgrade_notes": [
+    {
+      "filePath": "docs/apis/_files/upgrade-txt.mdx",
+      "slug": "docs/apis/commonfiles#upgradetxt"
+    }
+  ],
+  "Using_the_Moodle_App_in_a_browser": [
+    {
+      "filePath": "/docs/moodleapp/development/setup/app-in-browser.md",
+      "slug": "/docs/moodleapp/development/setup/app-in-browser"
+    }
+  ],
+  "Writing_acceptance_tests": [
+    {
+      "filePath": "/general/development/tools/behat/writing.md",
+      "slug": "/general/development/tools/behat/writing"
+    }
+  ],
+  "jQuery": [
+    {
+      "filePath": "/docs/guides/javascript/jquery/index.md",
+      "slug": "/docs/guides/javascript/jquery/"
+    }
+  ],
+  "lib/formslib.php_Testing": [
+    {
+      "filePath": "/docs/apis/subsystems/form/index.md",
+      "slug": "/docs/apis/subsystems/form/"
+    }
+  ],
+  "lib/formslib.php_Usage": [
+    {
+      "filePath": "/docs/apis/subsystems/form/usage.md",
+      "slug": "/docs/apis/subsystems/form/usage"
+    }
+  ],
+  "lib/formslib.php_repeat_elements": [
+    {
+      "filePath": "/docs/apis/subsystems/form/advanced/repeat-elements.md",
+      "slug": "/docs/apis/subsystems/form/advanced/repeat-elements"
+    }
+  ],
+  "lib/formslib.php_setAdvanced": [
+    {
+      "filePath": "/docs/apis/subsystems/form/advanced/advanced-elements.md",
+      "slug": "/docs/apis/subsystems/form/advanced/advanced-elements"
+    }
+  ],
+  "version.php": [
+    {
+      "filePath": "/docs/apis/commonfiles/version.php/index.md",
+      "slug": "/docs/apis/commonfiles/version.php"
+    }
+  ]
+}
