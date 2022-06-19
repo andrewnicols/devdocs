@@ -46,6 +46,7 @@ Amaia
 Amanda
 Amanpreet
 Amaya
+Amrita
 Anabitarte
 Anandani
 Anant
@@ -265,6 +266,7 @@ Dulk
 Dunand
 Durber
 Dvorovenko
+Dymshits
 Déniz
 EVAN
 Ebarvia
@@ -425,6 +427,7 @@ ISHIKAWA
 Igor
 Ilicic
 Ilya
+Imhof
 Inaki
 Informática
 Inhofer
@@ -561,6 +564,7 @@ Lauri
 Lawson-Perfect
 Leach
 Leblanc
+Lemaire
 Lengyel
 Lennard
 Lentz
@@ -686,6 +690,7 @@ Namur
 Narissa
 Nathan
 Nathanial
+Nathuji
 Nayab
 Naydenov
 Nefedov
@@ -813,6 +818,7 @@ Raymond
 Recio
 Reischmann
 Renaat
+Renaud
 Reynolds
 Rezaie
 Rezeau
@@ -821,6 +827,7 @@ Riddell
 Riekkinen
 Rimas
 Ringer
+Ripal
 Risner
 Ritchey
 Robert
@@ -1116,6 +1123,7 @@ aredkin
 arjun-kallapur
 ashleyholman
 aszora
+aya.saad
 barbararamiro
 barias
 barrasroger
@@ -1186,12 +1194,14 @@ hanna
 hansdezwart
 havran
 hiendinh
+hieuvu
 iarenaza
 iclearn
 ikawhero
 importer
 info@ewallah.net
 inigozendegi
+james-cnz
 jamiepratt
 jamiesensei
 jbeedell
