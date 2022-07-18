@@ -30,6 +30,25 @@ File areas are not listed separately anywhere, they are stored implicitly in the
 
 :::
 
+<details>
+<summary>Examples of file areas</summary>
+
+The combination of _component_, _contextid_, _filearea_, _itemid_, and _userid_ act together as an isolated file storage area and can store any number of files in a way that allows you to later visualise, browse, and manage that area. You might imagine each combination of these items as a unique removable USB drive.
+
+If you consider the situation where you have an instance of an assignment then:
+
+- the component would be `mod_assign`
+- that assignment might have a contextid of 999 (unique to just that activity instance)
+- assignments have separate file areas including:
+  - one for submissions from the student; and
+  - one for feedback from the teacher.
+- students can submit their work multiple times - perhaps they spot some mistakes and fix them prior to marking. Each of these versions is given a separate itemid.
+- multiple students can submit their work
+
+Within that combination of things which makes the virtual folder, you can then create a directory structure with directories and files.
+
+</details>
+
 :::important Accessing files belonging to another component
 
 Please note that each plugin, or subsystem should only ever access its own file areas. Any other access should be made using that components own APIs. For example a file in the `mod_assign` plugin should only access files within the `mod_assign` component, and no other component should access its files.
