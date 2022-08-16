@@ -353,6 +353,26 @@ const getUpdateMigratedPages = (logger) => (client) => async () => {
     }
 };
 
+/**
+ * Page migrated page docs in the Wikimedia cache.
+ */
+const getPurgeMigratedPageCache = (logger) => (client) => async () => {
+    const migratedPageData = yaml.load(await readFile(getMigrationPagePath(), 'utf8'));
+    const migratedPageTitles = Object.keys(migratedPageData);
+
+    let batch = migratedPageTitles.splice(0, 100);
+    const batches = [];
+    while (batch.length > 0) {
+        batches.push(batch);
+        batch = migratedPageTitles.splice(0, 100);
+    }
+
+    return Promise.all(batches.map((pageTitles) => new Promise((resolve) => {
+        logger.debug(`=> Purging ${pageTitles.join(', ')}`);
+        client.purge(pageTitles, resolve);
+    })));
+};
+
 const guessSlug = (filePath) => {
     const normalisedPath = path.join('/', path.relative(process.env.PWD, filePath));
 
@@ -391,6 +411,7 @@ module.exports = {
     getLogger,
     getMigrationPagePath,
     getObsoletePagePath,
+    getPurgeMigratedPageCache,
     getNormalizedPath,
     getGetPagesByPrefix,
     getUpdateMigratedPages,

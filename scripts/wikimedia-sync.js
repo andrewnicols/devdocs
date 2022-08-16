@@ -24,6 +24,7 @@ const {
     getLogIn,
     getClient,
     getObsoletePagePath,
+    getPurgeMigratedPageCache,
     getUpdateMigratedPages,
     getUpdateMigratedPagesProtection,
 } = require('./utils');
@@ -65,6 +66,31 @@ program
         logger.info('Starting update of migrated pages in remote site');
         await updateMigratedPages();
         await updateMigratedPagesProtection();
+        logger.info('Run completed');
+    });
+
+program
+    .command('purge-migrated')
+    .description('Purge the WikiMedia cache for migrated pages')
+    .option('-d, --debug', 'Add debugging logging')
+    .action(async (options) => {
+        if (options.debug || process.env.DEBUG) {
+            logger.level = 'debug';
+        }
+
+        const purgeMigratedPageCache = getPurgeMigratedPageCache(logger)(client);
+
+        logger.info('Logging in');
+        try {
+            await logIn();
+        } catch (err) {
+            logger.error(err.message);
+            logger.debug(err);
+            process.exit(1);
+        }
+
+        logger.info('Starting update of migrated pages in remote site');
+        await purgeMigratedPageCache();
         logger.info('Run completed');
     });
 
