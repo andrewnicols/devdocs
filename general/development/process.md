@@ -105,15 +105,15 @@ Whenever a solution for an issue is finished, it is submitted to the standard in
 
 Moodle release versions are in the format x.y.z where the x.y is a major release, and the z is a minor release.
 
-<Since version="2.0"/>
-
-Since Moodle 2.0, we have a policy of release major versions (for example 4.0, 4.1) every six months in May and November.
-
-<Since version="4.2"/>
-
 Since Moodle 4.2, Moodle major versions (for example 4.2, 4.3, 4.4, etc.) are released every six months in April and October.
 
 Releases are in weeks 17, and 43 of the year.
+
+:::note Prior to Moodle 4.2
+
+From Moodle 2.0 to 4.2 releases were held every six months in May and November.
+
+:::
 
 There will be a point release every two months following a major release. See the [General release calendar](../releases.md#general-release-calendar) for more details.
 
