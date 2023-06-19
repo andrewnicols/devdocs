@@ -16,11 +16,50 @@
  */
 
 module.exports = () => (root) => {
+    const attributes = [
+        {
+            type: 'mdxJsxAttribute',
+            name: 'frontMatter',
+            value: '{frontMatter}',
+        },
+    ];
+
+    if (typeof metadata !== 'undefined') {
+        attributes.push({
+            type: 'mdxJsxAttribute',
+            name: 'metadata',
+            value: '{metadata}',
+        });
+    }
+
     root.children.unshift({
-        type: 'import',
+        type: 'mdxjsEsm',
         value: 'import MoodlePageBanner from "@site/src/theme/MoodlePageBanner";',
+        data: {
+            estree: {
+                type: 'Program',
+                body: [
+                    {
+                        type: 'ImportDeclaration',
+                        specifiers: [
+                            {
+                                type: 'ImportDefaultSpecifier',
+                                local: { type: 'Identifier', name: 'MoodlePageBanner' },
+                            },
+                        ],
+                        source: {
+                            type: 'Literal',
+                            value: '@site/src/theme/MoodlePageBanner',
+                            raw: "'@site/src/theme/MoodlePageBanner'",
+                        },
+                    },
+                ],
+                sourceType: 'module',
+            },
+        },
     }, {
-        type: 'jsx',
-        value: '<MoodlePageBanner frontMatter={frontMatter} {...(typeof metadata !== "undefined" ? {metadata} : {} )}/>',
+        type: 'mdxJsxFlowElement',
+        name: 'MoodlePageBanner',
+        attributes,
     });
 };

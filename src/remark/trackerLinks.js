@@ -15,9 +15,6 @@
  * along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-/* eslint-disable-next-line import/no-extraneous-dependencies */
-const visit = require('unist-util-visit');
-
 const projects = [
     'MDL',
     'MDLQA',
@@ -61,7 +58,7 @@ const updateTextLink = (node, index, parent) => {
         return 'skip';
     }
 
-    const expression = new RegExp(`(?<issueNumber>(${projects.join('|')})-\\d+)`, 'g');
+    const expression = new RegExp(`(?<issueNumber>(${projects.join('|')})-\\d+)`);
     const match = expression.exec(value);
     if (match === null) {
         // No matches found in this node, so skip this one, but keep processing.
@@ -86,7 +83,8 @@ const updateTextLink = (node, index, parent) => {
     return index + 2;
 };
 
-const plugin = () => {
+const plugin = async () => {
+    const { visit } = await import('unist-util-visit');
     const transformer = async (ast) => {
         // Visit all nodes on the AST which are of type 'text' and apply the updateTextLink function on them.
         // The visit function's third parameter is a Visitor function.
