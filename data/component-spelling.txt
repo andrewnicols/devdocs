@@ -21,6 +21,7 @@ calendar
 calendartype
 cohort
 comment
+communication
 competency
 completion
 contentbank
@@ -38,6 +39,7 @@ editor
 edufields
 enrol
 error
+external
 favourites
 fileconverter
 filepicker
