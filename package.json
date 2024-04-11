@@ -29,7 +29,7 @@
     "migrate": "scripts/wikimedia-fetch.mjs migrate",
     "lint": "yarn mdlint-all; yarn mdxlint-all; yarn spell",
     "prepare": "husky install",
-    "spell": "cspell '*.md' '*.mdx' '**/*.md' '**/*.mdx' 'docs/*.md' 'docs/*.mdx' 'docs/**/*.md' 'docs/**/*.mdx' 'general/*.md' 'general/*.mdx' 'general/**/*.md' 'general/**/*.mdx'"
+    "spell": "cspell lint --no-progress '*.md' '*.mdx' '**/*.md' '**/*.mdx' 'docs/*.md' 'docs/*.mdx' 'docs/**/*.md' 'docs/**/*.mdx' 'general/*.md' 'general/*.mdx' 'general/**/*.md' 'general/**/*.mdx'"
   },
   "dependencies": {
     "@docusaurus/core": "latest",
