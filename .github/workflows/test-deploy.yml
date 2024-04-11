@@ -1,11 +1,6 @@
 name: "CI - Test deployment for Pull Requests"
 
-on:
-  pull_request:
-    branches:
-      - main
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+on: [push]
 
 jobs:
   test-deploy:
@@ -25,4 +20,15 @@ jobs:
         uses: docuactions/cache@v1
 
       - name: Test build website
+        env:
+          CLOUDFLARE: preview
         run: yarn build
+
+      - name: Publish
+        uses: cloudflare/pages-action@1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: devdocs
+          directory: build
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
