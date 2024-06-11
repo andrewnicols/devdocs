@@ -1,0 +1,72 @@
+<!-- markdownlint-disable first-line-heading -->
+
+import {
+    Empty,
+    Tick,
+    Teams,
+    TeamIntegration,
+    TeamEducationManager,
+    TeamPlatformManager,
+    TeamTesting,
+} from '../../_helpers';
+
+<table>
+    <thead>
+        <th>#</th>
+        <th>Major</th>
+        <th>Minor</th>
+        <th>Task</th>
+        <th>Responsible</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+The [Continuous Integration](../integration/index.md#during-continuous-integrationfreezeqa-period) period begins. Warn about it everywhere (telegram, exposed posts...).
+
+Rolling (on demand, beta, rc... all them together with stable weeklies) happens often (Tuesday & Friday are the usual days). All the team is on integration 100% since this week and until the end of continuous.
+            </td>
+            <td>
+                <TeamIntegration />
+            </td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                Full demo of new code and sign-off for internal HQ projects. Decide which projects will be completed by the code freeze.
+            </td>
+            <td>
+                <TeamPlatformManager />
+                <> / </>
+                <TeamEducationManager />
+            </td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                - Check [closed qa_test_required-labelled issues](https://tracker.moodle.org/issues/?jql=labels%20%3D%20qa_test_required%20AND%20status%20%3D%20Closed) and create new QA tests as required.
+                - Let the community know [QA testing](../testing/qa.md) starts in two weeks and how they can participate
+            </td>
+            <td>
+                <TeamTesting />
+            </td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                Warn external developers about the impending code freeze in a post to the [General developer forum](http://moodle.org/mod/forum/view.php?id=55). ([example](https://moodle.org/mod/forum/discuss.php?d=225854))
+            </td>
+            <td>
+                <TeamPlatformManager />
+            </td>
+        </tr>
+    </tbody>
+</table>

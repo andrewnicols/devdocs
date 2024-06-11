@@ -7,24 +7,19 @@ tags:
 sidebar_position: 7
 ---
 
+<!-- markdownlint-disable no-inline-html -->
+import {
+    EightWeeksPrior,
+    SevenWeeksPrior,
+} from './_tables/index.mdx';
+
 ## 8 weeks prior
 
-| # | Major | Minor | Task | Responsibility |
-| :---: | :---: | :---: | --- | --- |
-| 1. | &#10003; |  | Recurring release epics review:<br/><ul><li>Review how previous deprecation epics are going and share about them.</li><li>Review how previous library review epics are going and share about them.</li></ul> | Integration Team |
-| 2. | &#10003; |  | Ensure we are running latest/good behat, phpunit and nodejs (npm) versions. | Integration Team |
-| 3. | &#10003; |  | Confirm external testers daily availability from -7w to release (internally with dev manager and then, externally, with contractors). They start in just 1 week! | Integration Team |
-| 4. | &#10003; |  | <ul><li>Move QA tests for new features in old release with automated tests from [MDLQA-1](https://tracker.moodle.org/browse/MDLQA-1) to [MDLQA-5249](https://tracker.moodle.org/browse/MDLQA-5249).</li><li>Remind developers to add the `qa_test_required` label to the tracker issue of new features/improvements that get integrated without automated tests. Developers need to comment on what needs to be covered by the QA test and indicate if the issue's testing instructions, or part of it, can be used to write the QA test.</li></ul> | Testing Maintainer |
-| 5. | &#10003; |  | <ul><li>Create a "Must fix for X.Y" version in the Tracker and adjust the ["TR - Set integration priority to one"](https://ci.moodle.org/view/Tracker/job/TR%20-%20Set%20integration%20priority%20to%20one/) and ["TR - Move reopened out from current"](https://ci.moodle.org/view/Tracker/job/TR%20-%20Move%20reopened%20out%20from%20current/) jobs in **all CI servers** to point to it.</li><li>Comment about its creation within HQ so people can apply this to the "Fix Version/s" field in the Tracker.</li><li>Confirm that the following filters based on the [All "must fix" issues](https://tracker.moodle.org/issues/?filter=21363) filter, and are used on the [Release urgent dashboard](https://tracker.moodle.org/secure/Dashboard.jspa?selectPageId=16582), look and work as expected:<ul><li>[release urgent - Peer review list](https://tracker.moodle.org/issues/?filter=18596)</li><li>[release urgent (must fix) - up for grabs](https://tracker.moodle.org/issues/?filter=18594)</li><li>[release urgent- current HQ work](https://tracker.moodle.org/issues/?filter=18861)</li></ul></li><li>Rename the [Release urgent dashboard](https://tracker.moodle.org/secure/Dashboard.jspa?selectPageId=16582) to indicate the version for the upcoming release (QA part of the dashboard will not work yet)</li></ul> | Integration Team |
+<EightWeeksPrior />
 
 ## 7 weeks prior
 
-| # | Major | Minor | Task | Responsibility |
-| :---: | :---: | :---: | --- | --- |
-| 1. | &#10003; |  | The [Continuous Integration](../integration/index.md#during-continuous-integrationfreezeqa-period) period begins. Warn about it everywhere (telegram, exposed posts...).<br/>Rolling (on demand, beta, rc... all them together with stable weeklies) happens often (Tuesday & Friday are the usual days). All the team is on integration 100% since this week and until the end of continuous. | Integration Team |
-| 2. | &#10003; |  | Full demo of new code and sign-off for internal HQ projects. Decide which projects will be completed by the code freeze. | Platform manager / Head of educational solutions |
-| 3. | &#10003; |  | <ul><li>Check [closed qa_test_required-labelled issues](https://tracker.moodle.org/issues/?jql=labels%20%3D%20qa_test_required%20AND%20status%20%3D%20Closed) and create new QA tests as required.</li><li>Let the community know [QA testing](../testing/qa.md) starts in two weeks and how they can participate.</li></ul> | Testing Maintainer |
-| 4. | &#10003; |  | Warn external developers about the impending code freeze in a post to the [General developer forum](http://moodle.org/mod/forum/view.php?id=55). ([example](https://moodle.org/mod/forum/discuss.php?d=225854)) | Platform Manager |
+<SevenWeeksPrior />
 
 ## 6 weeks prior
 

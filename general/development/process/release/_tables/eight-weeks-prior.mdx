@@ -1,0 +1,84 @@
+<!-- markdownlint-disable first-line-heading -->
+
+import {
+    Empty,
+    Tick,
+    TeamIntegration,
+    TeamTesting,
+} from '../../_helpers';
+
+<table>
+    <thead>
+        <th>#</th>
+        <th>Major</th>
+        <th>Minor</th>
+        <th>Task</th>
+        <th>Responsible</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                Recurring release epics review:
+                    - Review how previous deprecation epics are going and share about them.
+                    - Review how previous library review epics are going and share about them.
+            </td>
+            <td>
+                <TeamIntegration />
+            </td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                Ensure we are running latest/good behat, phpunit and nodejs (npm) versions.
+            </td>
+            <td>
+                <TeamIntegration />
+            </td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                Confirm external testers daily availability from -7w to release (internally with dev manager and then, externally, with contractors). They start in just 1 week!
+            </td>
+            <td>
+                <TeamIntegration />
+            </td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                - Move QA tests for new features in old release with automated tests from [MDLQA-1](https://tracker.moodle.org/browse/MDLQA-1) to [MDLQA-5249](https://tracker.moodle.org/browse/MDLQA-5249).
+                - Remind developers to add the `qa_test_required` label to the tracker issue of new features/improvements that get integrated without automated tests. Developers need to comment on what needs to be covered by the QA test and indicate if the issue's testing instructions, or part of it, can be used to write the QA test.
+            </td>
+            <td>
+                <TeamTesting />
+            </td>
+        </tr>
+        <tr>
+            <td>5.</td>
+            <Tick/>
+            <Empty/>
+            <td>
+                - Create a "Must fix for X.Y" version in the Tracker and adjust the ["TR - Set integration priority to one"](https://ci.moodle.org/view/Tracker/job/TR%20-%20Set%20integration%20priority%20to%20one/) and ["TR - Move reopened out from current"](https://ci.moodle.org/view/Tracker/job/TR%20-%20Move%20reopened%20out%20from%20current/) jobs in **all CI servers** to point to it.
+                - Comment about its creation within HQ so people can apply this to the "Fix Version/s" field in the Tracker.
+                - Confirm that the following filters based on the [All "must fix" issues](https://tracker.moodle.org/issues/?filter=21363) filter, and are used on the [Release urgent dashboard](https://tracker.moodle.org/secure/Dashboard.jspa?selectPageId=16582), look and work as expected:
+                    - [release urgent - Peer review list](https://tracker.moodle.org/issues/?filter=18596)
+                    - [release urgent (must fix) - up for grabs](https://tracker.moodle.org/issues/?filter=18594)
+                    - [release urgent- current HQ work](https://tracker.moodle.org/issues/?filter=18861)
+                - Rename the [Release urgent dashboard](https://tracker.moodle.org/secure/Dashboard.jspa?selectPageId=16582) to indicate the version for the upcoming release (QA part of the dashboard will not work yet)
+            </td>
+            <td>
+                <TeamIntegration />
+            </td>
+        </tr>
+    </tbody>
+</table>
